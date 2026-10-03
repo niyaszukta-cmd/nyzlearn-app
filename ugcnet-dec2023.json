@@ -18734,9 +18734,41 @@
       "instruction": "Choose the correct answer from the options given below:"
     }
   },
-
-
-[
+  {
+    "id": "ugcnet_dec2023_14-12-2023_AN_48",
+    "exam": "UGC NET",
+    "paper": "Paper 1",
+    "year": 2023,
+    "month": "December",
+    "date": "14-12-2023",
+    "shift": "AN",
+    "q_no": 48,
+    "topic": "ICT",
+    "question": "“Ultrasonic sounds’ are sounds which are:",
+    "options": [
+      "Liked by humans",
+      "Audible to humans",
+      "Disliked by humans",
+      "Inaudible to humans"
+    ],
+    "correct": "C",
+    "explanation": "Ultrasonic sounds have frequencies above 20,000 Hz (20 kHz) — beyond the upper limit of human hearing. Though inaudible to humans, they are used by animals (bats, dolphins) and in medical/industrial applications.",
+    "source": "PYQ",
+    "question_data": {
+      "type": "simple",
+      "stem": "“Ultrasonic sounds’ are sounds which are:",
+      "items": [],
+      "list1": null,
+      "list2": null,
+      "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Liked by humans: irrelevant — the defining characteristic is audibility, not preference.",
+      "B": "Audible to humans: incorrect — ultrasonic frequencies are above human hearing range (>20 kHz).",
+      "C": "Disliked by humans: incorrect — we cannot hear them at all, so we cannot dislike them directly.",
+      "D": "Correct. Ultrasonic sounds are INAUDIBLE to humans — their frequency exceeds the human hearing range of 20-20,000 Hz."
+    }
+  },
   {
     "id": "ugcnet_jun2025_25-06-2025_FN_06",
     "exam": "UGC NET",
@@ -22267,7 +22299,7 @@
       "5, 18, 5, 8, 20",
       "5, 19, 18, 15, 8",
       "5, 18, 19, 8, 15",
-      "5, 19, 18, 8, 15 Comprehension:(46-50) Read the following passage carefully and answer the questions: The rule of the road means that in order that the liberties of all may be preserved, the liberties of everybody must be curtailed. When the policemen, say, at a road-crossing steps into the middle of the road and puts out his hand, he is the symbol not of tyranny but of liberty. You have submitted to a curtailment of private liberty in order that you may enjoy a social order which makes your liberty a reality. We have both liberties to preserve- our individual liberty and our social liberty. That is, we must have a judicious mixture of both. I shall not permit any authority to say that my child must go to this school or that, shall specialise in science or arts. These things are personal. But if I say that my child shall have no education at all, then society will firmly tell me that my child must have education whether I like it or not."
+      "5, 19, 18, 8, 15"
     ],
     "correct": "B",
     "explanation": "Each word is coded as the alphabet positions of its letters in reverse order. HORSE = 8, 15, 18, 19, 5, reversed gives 5, 19, 18, 15, 8.",
@@ -29343,7 +29375,7 @@
       "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)",
       "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)",
       "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)",
-      "(a)-(III), (b)-(II), (c)-(I), (d)-(IV) Comprehension: (46-50) Read the following passage and answer the questions: A person who takes the trouble to form his own opinions and beliefs, will feel that he owes no responsibility to the majority for his conclusions. If he is a genuine lover of truth, if he is inspired by a passion for seeing things as they are and an abhorrence of holding ideas which do not conform to facts, he will be wholly independent of the assent of those around him. When he proceeds to apply his beliefs in the practical conduct of life, the position is different. There are then good reasons why his attitude should be less inflexible. The society in which he is placed is an ancient and composite growth. The people from whom he dissents have not come by their opinions, customs and by a process of mere haphazard. These opinions and customs all had their origin in a certain real supposed fitness. They have certain depth of root in the lives of a proportion of the existing generation. Their congruity with one another may have come to an end. That is only one side of the truth. The most zealous propagandism cannot penetrate to them. In common language, we speak of a generation as something possessed of a kind of exact unity, with all its parts and members homogenous. Yet, plainly it is not this. It is a whole but a whole in a state of constant flux, its factors and elements are eternally shifting. It is not one but many generations."
+      "(a)-(III), (b)-(II), (c)-(I), (d)-(IV)"
     ],
     "correct": "A",
     "explanation": "Geographical distance is a physical barrier, individual differences and anxiety are psychological barriers, faulty expression and poor translation are linguistic, and poor audio/video quality is a technical barrier.",
@@ -31165,7 +31197,7 @@
       "(a), (b) and (c) Only",
       "(d) and (e) Only",
       "(c) and (e) Only",
-      "(a) and (e) Only Comprehension: (46-50) Read the following passage and answer the questions: The reformer must know that what moves people is the authentic life, not mere writing. The newspaper and journals that Lokmanya Tilak and other reformers ran, the books they wrote, sold little, but had enormous effect. Their writing was known to reflect and be just an extension of, their exemplary lives. It was the authenticity of their lives which lent weight to their message, to their example. All knew that their lives were an integral whole-they were not moral in public life and lax in private, nor vice versa. They were not full of pious thoughts and scared resolutions within the walls of a temple. A writer who is merely entertaining his readers, even one who is merely informing them, can do what he wants with the rest of his life. But the writer, who sets out to use his pen to reform public life, cannot afford such dualities. Here is the testimony of one great man about the influence of another, Lokmanya Tilak. \"I believe that an editor who has anything worth saying and who commands a clientele cannot be easily hushed. He delivered his finished message as soon as he is put under duress. The Lokmanya spoke more eloquently from the Mandalay fortress than through columns of the printed Kesari\""
+      "(a) and (e) Only"
     ],
     "correct": "C",
     "explanation": "Non-parametric tests do not need a particular distribution and are quicker and easier than parametric tests. They do not require homogeneity of variance and can be used with random samples.",
@@ -33003,7 +33035,7 @@
       "(a)-(I), (b)-(IV), (c)-(II), (d)-(III)",
       "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)",
       "(a)-(IV), (b)-(I), (c)-(III), (d)-(II)",
-      "(a)-(II), (b)-(IV), (c)-(I), (d)-(III) Comprehension: (46-50) Read the following passage and answer the questions: The stock-taking done at the first national convention on Consumer Protection served to highlight the areas that called for special attention to sustain the momentum of the movement as genuine forum for safeguarding the people's interests. Spreading awareness about the rights of the consumers and the relief open to them in case they did not get their money's worth of goods and services has rightly been identified as the first priority. While this may not be a difficult task in urban areas, where the movement is concentrated at present, taking it to the vast rural hinterland calls for a multi-media approach in which radio and television have a crucial role to play. The involvement of the 500-odd consumer organizations in the country in publicising the concept of fair trade practices and the remedies available against their violation will prove rewarding, if the message is conveyed through village bodies. Government efforts remain confined at best to setting up the infrastructure after the formal launch of the movement with the enactment of the Consumer Protection Act. The mounting backlog of cases in consumer courts, points to the need for toning up the district level redressal machinery."
+      "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)"
     ],
     "correct": "B",
     "explanation": "Universal affirmative is 'All S is P', universal negative is 'No S is P', particular affirmative is 'Some S is P', and particular negative is 'Some S is not P'.",
@@ -34874,7 +34906,7 @@
       "Branching",
       "Linear",
       "Programmed instruction",
-      "Self instruction Comprehension: (46-50) Read the following passage and answer the questions: Every now and then some retired civil servants come out with his memoirs, painting a glorious picture of the heights of administrative efficiency reached during his reign. There is often the suggestion that had there not been so much political interference, things would have been even more fantastic. It is not unusual for the self-styled hero to blame not only interfering politicians but also fellow civil servants who were idiots or crooks, for his failures. This attitude of smug satisfaction is, unfortunately developed during the years of service. Self preservation rather than service is encouraged by our whole system of rules and procedures. The remedy has to be drastic and quickly effective. The over-protection now granted to civil servants must end. Today to remove an erring civil servant is just not possible. And the only thing that the highest authority in the Government, both in the state and at the centre, can do is to transfer an official from one job to another. The rules for taking disciplinary action are so complicated that, in the end, the defaulting civil servant gets away, and gets his full emoluments even for the period of the disciplinary proceedings, thus making it a paid holiday for him. The result is that the administration has become rule-oriented and not result oriented. Action is possible against the official who takes some interest in his work, but no action is ever taken against a person who does not deliver the goods. If the country is to adopt a result oriented approach, it is necessary to link job performance with job retention."
+      "Self instruction"
     ],
     "correct": "A",
     "explanation": "As per the official key, branching is the instructional technology matching the understanding level of teaching.",
@@ -36504,7 +36536,7 @@
       "(a)-(II), (b)-(IV), (c)-(I), (d)-(III)",
       "(a)-(II), (b)-(I), (c)-(IV), (d)-(III)",
       "(a)-(IV), (b)-(III), (c)-(II), (d)-(I)",
-      "(a)-(IV), (b)-(II), (c)-(I), (d)-(III) Comprehension: (46-50) Read the following passage and answer the questions: The first step is for us to realise that a city need not be a frustrater of life; it can be among other things, a mechanism for enhancing life, for producing possibilities of living which are not to be realized except through cities. But, for that to happen, deliberate and drastic planning is needed. Towns as much as animals, must have their systems of organs-those for transport and circulation are an obvious example. What we need now are organ systems for recreation, leisure, culture, community expression. This means abundance of open space, easy access to unspoilt nature, beauty in parks and in fine buildings, gymnasia and swimming baths and recreation grounds in plenty, central spaces for celebrations and demonstrations, halls for citizens' meetings, concert halls and theatres and cinemas that belong to the city. And the buildings must not be built anyhow or dumped down anywhere; both they and their grouping should mean something important to the people of the place."
+      "(a)-(IV), (b)-(II), (c)-(I), (d)-(III)"
     ],
     "correct": "B",
     "explanation": "Recall is knowledge level, discrimination is understanding, hypothesis establishment is application of knowledge, and evaluation relates to creativity, per the official key.",
@@ -36556,42 +36588,6 @@
         ]
       },
       "instruction": "Choose the correct answer from the options given below:"
-    }
-
-  
-  {
-    "id": "ugcnet_dec2023_14-12-2023_AN_48",
-    "exam": "UGC NET",
-    "paper": "Paper 1",
-    "year": 2023,
-    "month": "December",
-    "date": "14-12-2023",
-    "shift": "AN",
-    "q_no": 48,
-    "topic": "ICT",
-    "question": "“Ultrasonic sounds’ are sounds which are:",
-    "options": [
-      "Liked by humans",
-      "Audible to humans",
-      "Disliked by humans",
-      "Inaudible to humans"
-    ],
-    "correct": "C",
-    "explanation": "Ultrasonic sounds have frequencies above 20,000 Hz (20 kHz) — beyond the upper limit of human hearing. Though inaudible to humans, they are used by animals (bats, dolphins) and in medical/industrial applications.",
-    "source": "PYQ",
-    "question_data": {
-      "type": "simple",
-      "stem": "“Ultrasonic sounds’ are sounds which are:",
-      "items": [],
-      "list1": null,
-      "list2": null,
-      "instruction": ""
-    },
-    "option_explanations": {
-      "A": "Liked by humans: irrelevant — the defining characteristic is audibility, not preference.",
-      "B": "Audible to humans: incorrect — ultrasonic frequencies are above human hearing range (>20 kHz).",
-      "C": "Disliked by humans: incorrect — we cannot hear them at all, so we cannot dislike them directly.",
-      "D": "Correct. Ultrasonic sounds are INAUDIBLE to humans — their frequency exceeds the human hearing range of 20-20,000 Hz."
     }
   }
 ]
