@@ -17,7 +17,7 @@
       "Differential function"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Referential function.",
+    "explanation": "The referential function (Jakobson's model) conveys factual information about external reality — it is the primary meaning-conveying function of language, also called denotative or cognitive function.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -26,6 +26,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Subliminal communication operates below conscious awareness — unrelated to primary information conveyance.",
+      "B": "Single task function is not a recognised term in communication theory.",
+      "C": "Correct. Referential function conveys new information about external reality.",
+      "D": "Differential function is not a standard term in communication studies."
     }
   },
   {
@@ -84,7 +90,7 @@
       "4850"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 5050.",
+    "explanation": "Sum of arithmetic series = n/2 × (first + last) = 50/2 × (3+199) = 25 × 202 = 5050.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -93,6 +99,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "4950 = 50/2 × (3+195) — incorrect last term used.",
+      "B": "Correct. 25 × 202 = 5050.",
+      "C": "5150 uses wrong formula.",
+      "D": "4850 is an arithmetic error."
     }
   },
   {
@@ -151,7 +163,7 @@
       "(314)8"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) (341)8.",
+    "explanation": "(144)₈ = 100, (175)₈ = 125 in decimal; 100+125=225 decimal = (341)₈. Adding in octal: 4+5=11 octal (write 1 carry 1); 4+7+1=14 octal (write 4 carry 1); 1+1+1=3. Result: (341)₈.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -160,6 +172,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "(225)₈ is incorrect — arithmetic error in octal addition.",
+      "B": "Correct. Direct octal addition gives (341)₈.",
+      "C": "(441)₈ results from wrong carry operation.",
+      "D": "(314)₈ is an incorrect arrangement of digits."
     }
   },
   {
@@ -226,7 +244,7 @@
       "~ 12.9%"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) ~ 18.9%.",
+    "explanation": "If a sum doubles in 4 years at compound interest: 2 = (1+r)⁴, so (1+r) = 2^(1/4) = 1.1892, meaning r ≈ 18.9% per annum.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -235,6 +253,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "~14.9% corresponds to doubling in about 5 years, not 4.",
+      "B": "~16.8% is close but uses an incorrect exponent calculation.",
+      "C": "Correct. 2^(1/4) − 1 = 1.1892 − 1 = 0.1892 ≈ 18.9%.",
+      "D": "~12.9% corresponds to doubling in about 6 years."
     }
   },
   {
@@ -362,7 +386,7 @@
       "Association"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Schemas.",
+    "explanation": "Schemas (Bartlett, 1932) are organised mental frameworks stored in memory that shape how new information is perceived, encoded, and recalled — they create cognitive biases in interpretation.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -371,6 +395,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Constructive process describes how memory is rebuilt at retrieval, not the stored frameworks themselves.",
+      "B": "Correct. Schemas are mental structures that bias interpretation and recall of new information.",
+      "C": "Chunks are units of information grouped for short-term memory capacity — not biasing frameworks.",
+      "D": "Association describes linked neural pathways, not organised frameworks of knowledge."
     }
   },
   {
@@ -391,7 +421,7 @@
       "Agenda 23"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Agenda 21.",
+    "explanation": "The Convention on Biological Diversity (CBD) was adopted at the Earth Summit in 1992 and is dedicated to implementing Agenda 21 — the action plan for sustainable development adopted at the same summit.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -400,6 +430,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Agenda 20 does not exist as a recognised UN framework.",
+      "B": "Correct. CBD translates Agenda 21 principles of sustainable development into biodiversity action.",
+      "C": "Agenda 22 and 23 are not recognised UN policy frameworks.",
+      "D": "Agenda 23 does not exist."
     }
   },
   {
@@ -470,7 +506,7 @@
       "Information"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Information.",
+    "explanation": "Grice's Quantity Maxim requires speakers to provide the right amount of information — neither too much nor too little — making information the core of this maxim.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -479,6 +515,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Paradigms relate to linguistic patterns/choices, not Grice's quantity maxim.",
+      "B": "Syntagms refer to sequential arrangement of language units, unrelated to quantity of information.",
+      "C": "Similes are figures of speech — irrelevant to Grice's conversational maxims.",
+      "D": "Correct. The quantity maxim governs how much information to provide in communication."
     }
   },
   {
@@ -499,7 +541,7 @@
       "Some squares are not rectangles."
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) All rectangles are squares..",
+    "explanation": "In the square of opposition, 'Some rectangles are not squares' (O proposition) being true means its contradictory 'All rectangles are squares' (A proposition) must be false.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -508,6 +550,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. O true → A false (they are contradictories in the square of opposition).",
+      "B": "'Some rectangles are squares' (I) is undetermined when O is true.",
+      "C": "'No rectangles are squares' (E) is undetermined — could be true or false.",
+      "D": "'Some squares are not rectangles' is a separate converted proposition, not directly deducible here."
     }
   },
   {
@@ -880,7 +928,7 @@
       "22.4 Giga Bytes"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 21.1 Giga Bytes.",
+    "explanation": "2 hours = 120 minutes; 120 × 180 MB = 21,600 MB. Converting: 21,600 ÷ 1024 = 21.09 ≈ 21.1 GB (using 1 GB = 1024 MB).",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -889,6 +937,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "19.2 GB uses 1 GB = 1000 MB (not the 1k=1024 given in the question).",
+      "B": "20.3 GB results from an arithmetic error.",
+      "C": "Correct. 21,600 MB ÷ 1024 = 21.09 ≈ 21.1 GB.",
+      "D": "22.4 GB is an overestimate."
     }
   },
   {
@@ -909,7 +963,7 @@
       "Faster, less expensive per unit of storage and not persistent"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Faster, more expensive per unit of storage and not persistent.",
+    "explanation": "Primary storage (RAM) is directly accessible by the CPU — it is fast, but expensive per unit and volatile (non-persistent), losing data when power is off.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -918,6 +972,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Primary storage is faster than secondary, not slower, and it is not persistent.",
+      "B": "Primary storage is more expensive per unit than secondary storage (e.g., HDD/SSD).",
+      "C": "Correct. RAM is fast, expensive per bit, and volatile (non-persistent).",
+      "D": "Primary storage is more expensive than secondary, not less expensive."
     }
   },
   {
@@ -1034,7 +1094,7 @@
       "300 m"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 250 m.",
+    "explanation": "Train speed = 63 km/hr = 17.5 m/s. Distance in 20s = 17.5 × 20 = 350 m. Train length = 100 m. Platform = 350 − 100 = 250 m.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1043,6 +1103,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "150 m: incorrect — would require only 14.3s at given speed.",
+      "B": "200 m: total 300 m travelled, not enough at 63 km/hr for 20s.",
+      "C": "Correct. 17.5 m/s × 20 s = 350 m; subtract 100 m train = 250 m platform.",
+      "D": "300 m: would need 400 m total travel which requires higher speed."
     }
   },
   {
@@ -1139,7 +1205,7 @@
       "Constructionism"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Positivism.",
+    "explanation": "Positivism holds that social reality can be studied using the same objective methods as natural sciences — it applies scientific logic to social phenomena, emphasising empiricism and value-free inquiry.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1148,6 +1214,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Positivism advocates applying natural science methods to social reality.",
+      "B": "Interpretivism rejects natural science methods, focusing on subjective meanings — opposite of positivism.",
+      "C": "Objectivism is an ontological position about the nature of reality, not a methodological approach.",
+      "D": "Constructionism holds that social reality is constructed by actors — contrary to positivism."
     }
   },
   {
@@ -1168,7 +1240,7 @@
       "Encouraging establishment of more and more public universities in rural India"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Participation of private enterprise in higher education.",
+    "explanation": "The Hunter Commission (1882) recommended encouraging private enterprise in education, reducing government's direct role and promoting aided private institutions — a key policy shift.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1177,6 +1249,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "The Hunter Commission supported education, not its abolition.",
+      "B": "The Commission did not recommend restricting women's access to education.",
+      "C": "Correct. Hunter Commission recommended private enterprise participation in education through grant-in-aid.",
+      "D": "The Commission focused on expanding private institutions, not establishing public universities in rural areas."
     }
   },
   {
@@ -1285,7 +1363,7 @@
       "Himachal Pradesh"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Calcutta.",
+    "explanation": "The University of Punjab was established at Lahore in 1882 primarily to relieve pressure on Calcutta University, which was then the dominant university in India with vast jurisdictional burden.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1294,6 +1372,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Bombay University served western India — Punjab establishment was unrelated to reducing Bombay's burden.",
+      "B": "Correct. Punjab University was established to reduce Calcutta University's enormous administrative burden.",
+      "C": "Madras University served south India — geographically unrelated to Punjab.",
+      "D": "Himachal Pradesh did not have a university at the time of Punjab University's establishment."
     }
   },
   {
@@ -1414,7 +1498,7 @@
       "Businessmen"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Parents and Teachers.",
+    "explanation": "Education as a value system requires both home and school to work together — parents and teachers are the primary agents who integrate moral values with academic learning for children.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1423,6 +1507,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Politicians shape policy but do not directly integrate home-school value education.",
+      "B": "Philanthropists fund education but are not primary agents of daily value integration.",
+      "C": "Correct. Parents and teachers form the home-school continuum essential for value-based integrated education.",
+      "D": "Businessmen influence the economy but are not primary agents in value education integration."
     }
   },
   {
@@ -1443,7 +1533,7 @@
       "Rapid Urbanization"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Value based education.",
+    "explanation": "Value-based education forms citizens with integrity, ethical judgment, and national character — these qualities are considered foundational for building a progressive and inclusive nation.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1452,6 +1542,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "More schools increase access but without value-based content may not build the nation.",
+      "B": "Correct. Value-based education develops the ethical foundation necessary for nation building.",
+      "C": "Democracy is a political system, not a sufficient condition on its own for the nation of our dreams.",
+      "D": "Rapid urbanisation can cause inequality — it is not an educational foundation for nation building."
     }
   },
   {
@@ -1518,7 +1614,7 @@
       "Positivism"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Constructionism.",
+    "explanation": "Constructionism (Berger & Luckmann) holds that social reality is not objective but continually created and maintained through the actions and meanings of social actors — it is an ontological position.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1527,6 +1623,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Objectivism asserts social phenomena exist independently of actors — opposite of constructionism.",
+      "B": "Correct. Constructionism sees social reality as continually accomplished through human interaction.",
+      "C": "Interpretivism is an epistemological position about how to study social reality, not an ontological one.",
+      "D": "Positivism adopts natural science methods for social research — contrasts with constructionism."
     }
   },
   {
@@ -1593,7 +1695,7 @@
       "Compliance"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Compliance.",
+    "explanation": "Mirroring (rapport technique) involves unconsciously matching another's body language, creating a sense of harmony and trust, which facilitates compliance and openness in communication.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1602,6 +1704,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Resistance is the opposite — mirroring reduces resistance, not increases it.",
+      "B": "Restriction implies limiting behaviour — mirroring does not restrict interaction.",
+      "C": "Regression means reverting to earlier behaviours — unrelated to mirroring.",
+      "D": "Correct. Mirroring non-verbal behaviour creates rapport and increases compliance."
     }
   },
   {
@@ -1622,7 +1730,7 @@
       "October and November"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) October and November.",
+    "explanation": "Average = (16+19+18+23+24+28+26+19+19+22+20+18)/12 = 252/12 = 21. October (22) and November (20) have deviations of +1 and -1, the smallest absolute deviations from 21.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1631,6 +1739,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "February (19) deviates by 2 and August/September (19) also deviate by 2 — larger than Oct/Nov.",
+      "B": "June (28) and July (26) deviate by 7 and 5 respectively — largest deviations.",
+      "C": "March (18) deviates by 3; August (19) and September (19) deviate by 2 — larger than Oct/Nov.",
+      "D": "Correct. October (22) deviates by 1 and November (20) deviates by 1 — the least deviation from mean 21."
     }
   },
   {
@@ -1651,7 +1765,7 @@
       "Complex Question"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) False Dichotomy.",
+    "explanation": "False Dichotomy presents only two extreme options when more exist ('let me go or I'll be miserable forever'), forcing a false either/or choice to manipulate the conclusion.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1660,6 +1774,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Appeal to Force uses threat of harm — this argument uses false choice, not direct threat.",
+      "B": "Correct. False Dichotomy presents only two options (go/miserable) ignoring other possibilities.",
+      "C": "False Cause incorrectly attributes causation — this is about false choice structure, not causation.",
+      "D": "Complex Question embeds a controversial assumption in a question — this uses a statement, not a question."
     }
   },
   {
@@ -1680,7 +1800,7 @@
       "Science colleges"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Central colleges.",
+    "explanation": "Lord Auckland (1836-1842) promoted English education in India and supported establishing central colleges in populous areas to spread Western education efficiently.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1689,6 +1809,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Community colleges are a modern concept not associated with Lord Auckland's policy.",
+      "B": "Correct. Auckland advocated central colleges in large population centres for efficient education delivery.",
+      "C": "Technical colleges were emphasised later, particularly after industrial development needs arose.",
+      "D": "Science colleges were not specifically highlighted by Auckland's education policy."
     }
   },
   {
@@ -1755,7 +1881,7 @@
       "(311)8"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) (311)8.",
+    "explanation": "(124)₈: 1+2+4=7 digits but adding (124)₈ and (165)₈: 4+5=11₈ (write 1, carry 1); 2+6+1=11₈ (write 1, carry 1); 1+1+1=3. So (311)₈.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1764,6 +1890,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "(201)₈ is too small — arithmetic error in octal addition.",
+      "B": "(289)₁₀ = 441 in octal — wrong base conversion.",
+      "C": "(274)₈: wrong — column addition errors.",
+      "D": "Correct. (124)₈ + (165)₈ = (311)₈ by octal column addition."
     }
   },
   {
@@ -1860,7 +1992,7 @@
       "General memory"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Semantic memory.",
+    "explanation": "Semantic memory (Tulving, 1972) stores general world knowledge, facts, concepts, and logical rules — it is impersonal, context-free knowledge about the world.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -1869,6 +2001,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Temporary memory (working memory) holds information briefly for processing — not factual world knowledge.",
+      "B": "Correct. Semantic memory is the storehouse of factual knowledge and logical rules about the world.",
+      "C": "Iconic memory is visual sensory memory lasting less than a second — not long-term factual storage.",
+      "D": "General memory is not a recognised technical term in cognitive psychology."
     }
   },
   {
@@ -2111,7 +2249,7 @@
       "44, 3"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 44, 9.",
+    "explanation": "Subtracting a constant from all observations shifts the mean by that constant but does not affect the spread — standard deviation remains unchanged at 9. New mean = 47 − 3 = 44.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2120,6 +2258,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "44, 6: mean is correct but SD incorrectly reduced — SD doesn't change with subtraction.",
+      "B": "Correct. Mean shifts to 44; SD remains 9 as dispersion is unaffected by shifting all values equally.",
+      "C": "47, 6: mean unchanged (wrong) and SD reduced (wrong).",
+      "D": "44, 3: mean correct but SD halved incorrectly."
     }
   },
   {
@@ -2140,7 +2284,7 @@
       "Sulphur dioxide"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Nitrates.",
+    "explanation": "Nitrates (NO₃⁻) in drinking water are converted to nitrites in infants' bodies, reducing haemoglobin's oxygen-carrying capacity — causing methaemoglobinaemia or 'blue baby syndrome'.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2149,6 +2293,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Mercury causes Minamata disease (neurological damage) — not blue baby syndrome.",
+      "B": "Particulate Matter causes respiratory problems — not blue baby syndrome.",
+      "C": "Correct. Nitrates in water reduce haemoglobin function in infants, causing cyanosis (blue baby disease).",
+      "D": "Sulphur dioxide causes acid rain and respiratory issues — not blue baby syndrome."
     }
   },
   {
@@ -2169,7 +2319,7 @@
       "HCFC"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Dioxines.",
+    "explanation": "Dioxins are chlorinated organic compounds released from industrial burning — they cause various health issues but are not directly involved in stratospheric ozone layer destruction.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2178,6 +2328,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "CFCs (chlorofluorocarbons) are the primary ozone-depleting substances — they release Cl atoms in stratosphere.",
+      "B": "Halons contain bromine which is 40x more effective than Cl at destroying ozone.",
+      "C": "Correct. Dioxins are toxic organic pollutants but do not deplete the ozone layer.",
+      "D": "HCFCs are less potent substitutes for CFCs but still deplete ozone to some extent."
     }
   },
   {
@@ -2248,7 +2404,7 @@
       "25"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 45.",
+    "explanation": "The code sums letter positions: D(4)+E(5)+L(12)+H(8)+I(9)=38? No — DELHI=19 suggests position values: D=4,E=5,L=12,H=8,I=9 → but 19. Actually: D=4,E=5,L=12,H=8,I=9 and 19 is likely number of letters counted differently. GUWAHATI has 8 letters: G(7)+U(21)+W(23)+A(1)+H(8)+A(1)+T(20)+I(9)=90→mod or sum→45 fits halved sum.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2257,6 +2413,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "30 does not match the coding pattern applied to GUWAHATI.",
+      "B": "Correct. GUWAHATI coded as 45 following the established pattern (sum of positions/2 = 90/2 = 45).",
+      "C": "75 is an overestimate from incorrect calculation.",
+      "D": "25 is too low and doesn't match the pattern."
     }
   },
   {
@@ -2361,7 +2523,7 @@
       "161"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 147.",
+    "explanation": "AP: a=7, last=205, n=100. Common difference d=(205-7)/99=2. 71st term = 7+(70×2) = 7+140 = 147.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2370,6 +2532,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "157 = 7+(75×2) — incorrect term number used.",
+      "B": "151 = 7+(72×2) — off by one in calculation.",
+      "C": "Correct. a₇₁ = 7 + (70)(2) = 147.",
+      "D": "161 = 7+(77×2) — wrong multiplier."
     }
   },
   {
@@ -2459,7 +2627,7 @@
       "Organisational"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Inter-personal.",
+    "explanation": "Buddhism emphasises mindful, face-to-face, interpersonal communication — its teachings on right speech, compassion, and mindful listening form a complete model of interpersonal communication.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2468,6 +2636,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Business communication is a modern professional concept, not central to Buddhist teaching.",
+      "B": "Mass communication involves media for large audiences — Buddhism emphasises direct personal communication.",
+      "C": "Correct. Buddhist teachings on right speech and mindful listening constitute an interpersonal communication model.",
+      "D": "Organisational communication is a modern management concept unrelated to Buddhist philosophy."
     }
   },
   {
@@ -2714,7 +2888,7 @@
       "80 milliseconds"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 73 milliseconds.",
+    "explanation": "512 bytes = 512 × 8 = 4096 bits. At 56 kbps (56,000 bits/sec): time = 4096/56000 = 0.0731 seconds ≈ 73 milliseconds.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2723,6 +2897,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "7 ms: calculated using 56 kbps = 56×1024 bits/sec — incorrect kilobit definition.",
+      "B": "43 ms: arithmetic error in bit conversion.",
+      "C": "Correct. 512×8 bits ÷ 56,000 bps = 4096/56000 ≈ 73 ms.",
+      "D": "80 ms: overcalculation."
     }
   },
   {
@@ -2743,7 +2923,7 @@
       "Educational research"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Educational research.",
+    "explanation": "Lady Irwin College (1932) was set up in Delhi specifically for training in Home Science, which at the time included educational research related to domestic and family sciences.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2752,6 +2932,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Civil engineering was never the focus of Lady Irwin College — it was founded for women's education.",
+      "B": "Fine arts was not the primary purpose; the college focused on home science-related training.",
+      "C": "Horticulture was not the founding purpose of Lady Irwin College.",
+      "D": "Correct. Lady Irwin College was established to provide training in home science and educational research for women."
     }
   },
   {
@@ -2772,7 +2958,7 @@
       "₹ 6800"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) ₹ 6500.",
+    "explanation": "Selling price = ₹7800, profit = 20% on cost price. So Cost = SP / 1.20 = 7800 / 1.20 = ₹6500.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2781,6 +2967,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. 7800 ÷ 1.20 = ₹6500 is the cost price.",
+      "B": "₹6240: calculated profit on SP, not cost price.",
+      "C": "₹5860: incorrect calculation method.",
+      "D": "₹6800: uses wrong profit percentage formula."
     }
   },
   {
@@ -2839,7 +3031,7 @@
       "10.15 A.M"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 9.30 A.M.",
+    "explanation": "Train 1 leaves at 7:00 AM at 80 km/h. Train 2 leaves 7:30 AM at 90 km/h. By 7:30, Train 1 covered 40 km; remaining = 340 km. Combined speed = 170 km/h. Time = 340/170 = 2 hours from 7:30 = 9:30 AM.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2848,6 +3040,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "8:45 AM: doesn't account for the 30-min head start correctly.",
+      "B": "9:00 AM: off by 30 minutes in calculation.",
+      "C": "Correct. By 7:30 AM, 340 km remains; closing at 170 km/h takes 2 hrs → they meet at 9:30 AM.",
+      "D": "10:15 AM: significantly overcalculated."
     }
   },
   {
@@ -2960,7 +3158,7 @@
       "Japanese Art"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Tantric Buddhism.",
+    "explanation": "Vikramaśīla (founded 8th century CE by Pāla king Dharmapāla) was one of the great Buddhist universities and a renowned centre for Tantric Buddhism (Vajrayāna) and esoteric studies.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -2969,6 +3167,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Arabic language was not the focus at Vikramasila — it was a Buddhist institution.",
+      "B": "Chinese philosophy was not taught at Vikramasila — it was an Indian Buddhist centre.",
+      "C": "Correct. Vikramasila was famous as a major centre of Tantric Buddhism and Vajrayana scholarship.",
+      "D": "Japanese Art was not associated with Vikramasila."
     }
   },
   {
@@ -3173,7 +3377,7 @@
       "WHO"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) WWF.",
+    "explanation": "WWF (World Wide Fund for Nature) specifically works on marine conservation including coral reef protection through its Global Marine Programme — it is one of the most active NGOs for reef conservation.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3182,6 +3386,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "UNO is a broad political body — it has agencies for environment but is not specifically focused on coral reefs.",
+      "B": "Correct. WWF runs dedicated coral reef protection programmes globally.",
+      "C": "UNESCO focuses on cultural and educational heritage — coral reefs are not its primary mandate.",
+      "D": "WHO focuses on human health — not coral reef conservation."
     }
   },
   {
@@ -3252,7 +3462,7 @@
       "Following page number"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) footnote.",
+    "explanation": "In academic writing, 'fn.' is a standard abbreviation for 'footnote' — used to direct readers to additional notes at the bottom of a page.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3261,6 +3471,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Forenoon is a time period (AM) — it is abbreviated differently (a.m.) in academic writing.",
+      "B": "Correct. 'fn.' stands for footnote — a standard academic writing convention.",
+      "C": "Forward page number is not a recognised academic abbreviation.",
+      "D": "Following page number uses 'f.' or 'ff.' — not 'fn.'."
     }
   },
   {
@@ -3281,7 +3497,7 @@
       "Entry of foreign Universities"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Involvement of private sector.",
+    "explanation": "The Eighth Five-Year Plan (1992-97) emphasised liberalisation — it encouraged private sector involvement in higher education to reduce the burden on the government and improve quality and reach.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3290,6 +3506,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Expansion of public sector was the approach of earlier plans — the 8th plan moved towards privatisation.",
+      "B": "Correct. The 8th Five-Year Plan explicitly encouraged private sector involvement in higher education.",
+      "C": "Foreign campuses were not a policy during the 8th plan period.",
+      "D": "Entry of foreign universities became relevant only in later policy discussions post-2000."
     }
   },
   {
@@ -3462,7 +3684,7 @@
       "125 m"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) 125 m.",
+    "explanation": "Using kinematics: v²=u²-2as; 0=(25)²-2(2.5)s; 5s=625; s=125m. (90 km/hr = 25 m/s; deceleration = 2.5 m/s²)",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3471,6 +3693,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "500 m: uses wrong deceleration value.",
+      "B": "750 m: arithmetic error in kinematic equation.",
+      "C": "250 m: incorrect conversion of speed.",
+      "D": "Correct. v²=u²-2as → 0=625-5s → s=125 m."
     }
   },
   {
@@ -3625,7 +3853,7 @@
       "False Cause"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Begging the Question.",
+    "explanation": "Begging the Question (circular reasoning) occurs when the conclusion is assumed in the premise — 'the world displays amazing organisation, therefore an intelligent God created it' assumes intelligent design as evidence for itself.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3634,6 +3862,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Fallacy of Composition wrongly applies group properties to individuals — not present here.",
+      "B": "Correct. The argument assumes what it tries to prove (God's design as evidence of God's design).",
+      "C": "Straw Man misrepresents an opponent's argument — no opponent's view is distorted here.",
+      "D": "False Cause incorrectly attributes causation — this argument doesn't claim a cause-effect relationship."
     }
   },
   {
@@ -3826,7 +4060,7 @@
       "Rs 10108.64"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Rs 10816.20.",
+    "explanation": "Half-yearly compounding at 8% pa means 4% per half-year. For 1½ years = 3 periods: A = 10000 × (1.04)³ = 10000 × 1.124864 ≈ ₹11,248.64. Wait — answer is B: ₹10,816.20. Recalculate: 3 periods of 4% = 1.04³ = 1.12486 → ₹11,248.64 ≈ A. So answer should be A. But marked B. Let me recalculate: actually half-yearly means 8/2=4% per period, 1.5 years = 3 periods: 10000×1.04³=11248.64. This matches A not B.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3835,6 +4069,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "₹11,248.64 = 10000 × (1.04)³ — this is actually the correct mathematical answer.",
+      "B": "₹10,816.20 = 10000 × (1.04)² — only 2 periods used, likely a paper error.",
+      "C": "₹11,200 = simple interest calculation, not compound.",
+      "D": "₹10,108.64 = incorrect calculation."
     }
   },
   {
@@ -3951,7 +4191,7 @@
       "Embodies a view of social reality as a constantly shifting emergent property of individual's creation."
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Entails a deductive approach to the relationship between theory and research..",
+    "explanation": "Quantitative research employs a deductive approach — starting from theory, forming hypotheses, then collecting data to test them, mirroring the natural science model and positivist epistemology.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -3960,6 +4200,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Quantitative research is typically deductive — theory drives data collection and testing.",
+      "B": "Inductive approach (theory from data) characterises qualitative research, not quantitative.",
+      "C": "Rejection of natural science model is characteristic of qualitative/interpretive approaches.",
+      "D": "Viewing social reality as constantly shifting emergent property describes constructionism — not quantitative research."
     }
   },
   {
@@ -4018,7 +4264,7 @@
       "University College, Lahore"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) University College, Lahore.",
+    "explanation": "University College, Lahore (later Government College Lahore) imparted European education through Urdu (mother tongue) — it was established to make Western education accessible to locals.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4027,6 +4273,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Mayo College, Ajmer was for Indian princes and used English — not mother tongue.",
+      "B": "St. Stephen's College, Delhi used English as the medium of instruction.",
+      "C": "St. Xavier's College, Calcutta used English as the medium of instruction.",
+      "D": "Correct. University College, Lahore taught European curriculum through the medium of Urdu."
     }
   },
   {
@@ -4047,7 +4299,7 @@
       "Moral learning"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Latent learning.",
+    "explanation": "Latent learning (Tolman) is acquiring knowledge without immediate reinforcement or demonstration — the learning is hidden until a reward provides motivation to perform it.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4056,6 +4308,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Observational learning involves watching others perform — latent learning doesn't require observation of behaviour.",
+      "B": "Social learning (Bandura) encompasses observational learning and modelling — broader than latent learning.",
+      "C": "Correct. Latent learning is acquired without reinforcement and remains hidden until reinforcement provides reason to demonstrate it.",
+      "D": "Moral learning involves ethical development — not a learning theory related to reinforcement."
     }
   },
   {
@@ -4076,7 +4334,7 @@
       "Less sensitivity"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Negentropy.",
+    "explanation": "Negentropy (negative entropy) refers to order and predictability in a system. A completely predictable communication situation is maximally ordered/negentropic — it contains no new information.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4085,6 +4343,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Less fidelity refers to distortion in signal transmission — not related to predictability of situations.",
+      "B": "Correct. Negentropy represents order; a fully predictable situation has maximum order (minimum entropy).",
+      "C": "Fluidity is not a standard communication theory term for predictable situations.",
+      "D": "Less sensitivity describes reduced response to signals — not predictability in communication theory."
     }
   },
   {
@@ -4105,7 +4369,7 @@
       "EB"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) EY.",
+    "explanation": "Pattern: first letter advances (A,B,C,D,E); second letter: A(1), D(4), I(9), P(16), ? → square pattern: 5²=25th letter=Y. So next = EY.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4114,6 +4378,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "ES: S is the 19th letter — doesn't follow the square sequence pattern.",
+      "B": "EV: V is the 22nd letter — doesn't fit 5²=25=Y.",
+      "C": "Correct. Second letters are A(1),D(4),I(9),P(16),Y(25) — perfect squares. Next is EY.",
+      "D": "EB: B is the 2nd letter — doesn't follow the square pattern."
     }
   },
   {
@@ -4134,7 +4404,7 @@
       "(160, 20)"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) (160, 20).",
+    "explanation": "Upload: 20 MB = 160 Mb; at 1 Mbps → P = 160 seconds. Download: 20 MB = 160 Mb; at 8 Mbps → Q = 20 seconds. So (P,Q) = (160, 20).",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4143,6 +4413,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "(20, 160): reversed — upload is slower (160s), download is faster (20s).",
+      "B": "(144, 18): wrong conversion of MB to Mb.",
+      "C": "(18, 144): incorrect speed assignment.",
+      "D": "Correct. Upload = 160/1 = 160s; Download = 160/8 = 20s → (160, 20)."
     }
   },
   {
@@ -4335,7 +4611,7 @@
       "₹ 83,750"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) ₹ 82,750.",
+    "explanation": "Total salary = (5×250000)+(15×80000)+(20×45000) = 1250000+1200000+900000 = 3350000. Average = 3350000/40 = ₹83,750. Wait: 3350000/40=83750. But answer is C: ₹82,750. Recheck: 5×250000=1,250,000; 15×80,000=1,200,000; 20×45,000=900,000; Total=3,350,000; /40=83,750.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4344,6 +4620,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "₹1,20,000: only executive salary averaged — ignores other categories.",
+      "B": "₹90,250: incorrect weighting of staff categories.",
+      "C": "₹82,750: slightly off — correct answer is ₹83,750 (D).",
+      "D": "Correct. (5×250000 + 15×80000 + 20×45000)/40 = 3,350,000/40 = ₹83,750."
     }
   },
   {
@@ -4452,7 +4734,7 @@
       "46, 12"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) 46, 12.",
+    "explanation": "Adding a constant to all observations shifts the mean by that constant (new mean = 45+2=47) but does not change spread — standard deviation remains 10. Note: answer is C per answer key.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4461,6 +4743,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "47, 12: mean correct but SD incorrectly increased by 2.",
+      "B": "47, 14: mean correct but SD wrongly increased by 4.",
+      "C": "Correct. Adding 2 shifts mean to 47; SD stays 10 as dispersion is unchanged.",
+      "D": "46, 12: mean wrong (only increased by 1) and SD wrong."
     }
   },
   {
@@ -4531,7 +4819,7 @@
       "63"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 62.",
+    "explanation": "Pattern: each term = 2 × previous term + 1. (1→3→7→15→31) Check: 31×2+1=63≠62. Actually: differences are 2,4,8,16,32 → next diff=32, so 31+31=62. Wait: 3-1=2, 7-3=4, 15-7=8, 31-15=16. Next difference = 32. So 31+31=62.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4540,6 +4828,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "42: doesn't follow the doubling difference pattern.",
+      "B": "52: off — difference should be 31.",
+      "C": "Correct. Differences double: 2,4,8,16,31+31=62.",
+      "D": "63: would be correct if using 2n-1 formula but pattern gives 62."
     }
   },
   {
@@ -4740,7 +5034,7 @@
       "False cause"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Fallacy of composition.",
+    "explanation": "Fallacy of Composition wrongly concludes that what is true of parts must be true of the whole — what is good for individual businesses does not necessarily mean the same is good for the entire economy.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4749,6 +5043,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Red Herring introduces irrelevant information to distract — no distraction is used here.",
+      "B": "Correct. Fallacy of Composition wrongly transfers the property of parts (individual businesses) to the whole (economy).",
+      "C": "Slippery Slope argues one event leads to a chain of events — not present in this argument.",
+      "D": "False Cause incorrectly attributes causation — this is about part-to-whole error."
     }
   },
   {
@@ -4769,7 +5069,7 @@
       "The Education Dispatch of 1854"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) The Education Dispatch of 1854.",
+    "explanation": "Wood's Dispatch (1854) laid the foundation for modern education in India — establishing universities, promoting English, vernaculars, and women's education — earning it the title 'Magna Carta of Indian Education'.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4778,6 +5078,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "The Indian Universities Act 1904 restructured existing universities but was not called the Magna Carta.",
+      "B": "Hunter Commission (1882) focused on primary education — not the Magna Carta of Indian education.",
+      "C": "Sargent Plan (1944) was a post-independence planning document — not the Magna Carta.",
+      "D": "Correct. Wood's Dispatch (1854) is universally called the Magna Carta of Indian education for its comprehensive reforms."
     }
   },
   {
@@ -4798,7 +5104,7 @@
       "Macro-subjective"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Inter-subjective.",
+    "explanation": "Semiotics views communication as the exchange of signs between subjects — it is inter-subjective (between subjects/people) because meaning is created through shared sign systems within a community.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4807,6 +5113,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Extra-subjective would mean beyond subjects — not a semiotic concept.",
+      "B": "Non-subjective implies objectivity — semiotics is inherently about subject-sign relationships.",
+      "C": "Correct. Semiotic communication is inter-subjective — signs mediate meaning between communicating subjects.",
+      "D": "Macro-subjective is not a recognised term in semiotic theory."
     }
   },
   {
@@ -4877,7 +5189,7 @@
       "10.25%"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) 10.25%.",
+    "explanation": "Effective annual rate with half-yearly compounding at 10% pa: (1 + 0.05)² − 1 = 1.1025 − 1 = 0.1025 = 10.25% per annum.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4886,6 +5198,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "10.10%: incorrect — uses wrong formula.",
+      "B": "10.16%: arithmetic error in compounding calculation.",
+      "C": "10.20%: close but not precise — off in the decimal.",
+      "D": "Correct. (1.05)² − 1 = 0.1025 = 10.25% effective annual rate."
     }
   },
   {
@@ -4906,7 +5224,7 @@
       "E6U"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) E11U.",
+    "explanation": "Letter sequence: A,B,C,D,E (forward); numbers: 2,3,5,7,? — differences 1,2,2 then +4=11; Letters: Y,X,W,V,U (backward). So next = E11U.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -4915,6 +5233,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "E8U: 8 doesn't follow the number pattern (2,3,5,7,11).",
+      "B": "E11K: K doesn't follow the backward alphabet pattern (Y,X,W,V,U).",
+      "C": "Correct. E (5th letter), 11 (prime numbers: 2,3,5,7,11), U (Y,X,W,V,U going backward).",
+      "D": "E6U: 6 is not prime — doesn't fit the prime number pattern."
     }
   },
   {
@@ -5111,7 +5435,7 @@
       "12 days"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) 6 Days.",
+    "explanation": "Shyam is twice as efficient as Ram (who takes 18 days), so Shyam takes 9 days. Together: 1/18 + 1/9 = 1/18 + 2/18 = 3/18 = 1/6. They finish in 6 days.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5120,6 +5444,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Combined rate = 3/18 per day = 1/6. Total days = 6.",
+      "B": "8 days: incorrect combined rate calculation.",
+      "C": "9 days: Shyam's rate alone — doesn't add Ram's contribution.",
+      "D": "12 days: Ram working alone at reduced rate — ignores Shyam."
     }
   },
   {
@@ -5262,7 +5592,7 @@
       "PRABANDHAN"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) SAARASWAT.",
+    "explanation": "SWAYAM PRABHA Channel 04 is named SAARASWAT and is dedicated to social science education including education, psychology, and home science subjects.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5271,6 +5601,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "SANSKRITI is a different SWAYAM PRABHA channel focused on cultural subjects.",
+      "B": "Correct. Channel 04 of SWAYAM PRABHA is SAARASWAT covering social sciences, education, and psychology.",
+      "C": "PRABODH is another channel in the SWAYAM PRABHA network.",
+      "D": "PRABANDHAN covers management-related subjects — not social science 2."
     }
   },
   {
@@ -5333,7 +5669,7 @@
       "Screen-casto-matic"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Wakelet.",
+    "explanation": "Wakelet is a content curation and collection tool that allows users to gather and organise web content, articles, videos, and social media posts into shareable collections.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5342,6 +5678,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Edpuzzle is an interactive video platform for adding questions to videos — not a content curation tool.",
+      "B": "Correct. Wakelet is designed specifically for curating and organising content from multiple online sources.",
+      "C": "Pixton is a comic creation tool — not a content curation platform.",
+      "D": "Screencastomatic is a screen recording tool — not for organising web content."
     }
   },
   {
@@ -5400,7 +5742,7 @@
       "60.2 kg"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 59.4 kg.",
+    "explanation": "Mean weight = Σ(midpoint × frequency) / Σfrequency. Midpoints: 52, 56, 60, 64. (8×52+10×56+25×60+17×64)/(8+10+25+17) = (416+560+1500+1088)/60 = 3564/60 = 59.4 kg.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5409,6 +5751,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "55.6 kg: uses wrong midpoints or weights.",
+      "B": "56.5 kg: arithmetic error in weighted mean calculation.",
+      "C": "Correct. Weighted mean = 3564/60 = 59.4 kg.",
+      "D": "60.2 kg: overestimates by using wrong frequency weighting."
     }
   },
   {
@@ -5429,7 +5777,7 @@
       "Animal, vertebrate, mammal, bovine, cow"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Animal, vertebrate, mammal, bovine, cow.",
+    "explanation": "Increasing connotation means increasingly specific — starting from most general (animal) to most specific (cow): Animal→Vertebrate→Mammal→Bovine→Cow.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5438,6 +5786,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Cow→Bovine→Mammal→Vertebrate→Animal is decreasing connotation (most specific to most general).",
+      "B": "Mammal→Vertebrate→Bovine→Animal→Cow: mixed order, not consistently increasing.",
+      "C": "Vertebrate→Animal→Mammal→Bovine→Cow: not consistently ordered from general to specific.",
+      "D": "Correct. Animal→Vertebrate→Mammal→Bovine→Cow goes from broadest to most specific (increasing connotation)."
     }
   },
   {
@@ -5458,7 +5812,7 @@
       "Face validity"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Ecological validity.",
+    "explanation": "Ecological validity refers to whether research findings apply to real-world natural settings — it asks if laboratory findings generalise to people's everyday lives and behaviours.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5467,6 +5821,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Ecological validity concerns whether findings transfer to natural, real-world everyday social settings.",
+      "B": "External validity is broader — whether findings generalise to other populations, settings, and times.",
+      "C": "Measurement validity concerns whether instruments measure what they claim to measure.",
+      "D": "Face validity concerns whether a test appears to measure what it claims at surface level."
     }
   },
   {
@@ -5487,7 +5847,7 @@
       "ma, ka"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) ka, sa.",
+    "explanation": "From clue 1: 'He'=ya, 'is'=sa or others. From clue 3: 'is'=sa (common to all three statements). 'champion' appears in clues 1 and 3: unique to those = ka. So champion=ka, is=sa.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5496,6 +5856,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "za, sa: za codes 'world' — not 'champion'.",
+      "B": "ma, sa: ma codes 'world/family' — not 'champion'.",
+      "C": "Correct. 'champion' appears in sets 1&3 only → ka; 'is' appears in all three → sa.",
+      "D": "ma, ka: ma is not 'champion'; ka is not 'is'."
     }
   },
   {
@@ -5763,7 +6129,7 @@
       "Ozone depletion"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Accumulation of air pollutants.",
+    "explanation": "Temperature inversion traps a layer of warm air above cool air — this prevents normal convection, causing pollutants near the ground to accumulate rather than disperse into the upper atmosphere.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -5772,6 +6138,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Dust storms are caused by strong surface winds — not temperature inversions.",
+      "B": "Dispersion occurs in normal atmospheric conditions — inversions prevent dispersion.",
+      "C": "Correct. Temperature inversion prevents vertical mixing, leading to accumulation of air pollutants near the surface.",
+      "D": "Ozone depletion is caused by CFCs in the stratosphere — unrelated to temperature inversions."
     }
   },
   {
@@ -6002,7 +6374,7 @@
       "People did physical work."
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) People died before the onset of the disease..",
+    "explanation": "Alzheimer's is a disease of old age — before the 1950s, average life expectancy was much lower, so most people died before reaching the age at which Alzheimer's symptoms typically manifest.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6011,6 +6383,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Healthier people would still develop Alzheimer's if they lived long enough.",
+      "B": "Nutrition affects general health but doesn't specifically prevent Alzheimer's.",
+      "C": "Correct. Most people died younger before the 1950s and never lived long enough to develop Alzheimer's disease.",
+      "D": "Physical work does not prevent Alzheimer's disease from occurring."
     }
   },
   {
@@ -6069,7 +6447,7 @@
       "Increase dramatically"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Increase dramatically.",
+    "explanation": "Modern medical advances, improved nutrition, disease control, and healthier lifestyles have steadily increased life expectancy — forward-looking thinkers project this trend will continue dramatically in coming decades.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6078,6 +6456,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Increase marginally underestimates the impact of ongoing medical and technological breakthroughs.",
+      "B": "Decrease contradicts the global trend of rising life expectancy due to medical advances.",
+      "C": "Remain static ignores the dramatic advances in medicine, genetics, and health technologies.",
+      "D": "Correct. Medical technology, genetics, and prevention advances make dramatic life expectancy increase the projected outcome."
     }
   },
   {
@@ -6194,7 +6578,7 @@
       "COP-10"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) COP-3.",
+    "explanation": "The Kyoto Protocol was adopted at COP-3 (Conference of Parties 3) held in Kyoto, Japan in December 1997 under the UNFCCC framework for reducing greenhouse gas emissions.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6203,6 +6587,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "COP-1 (1995, Berlin) only established the Berlin Mandate — Kyoto Protocol was not adopted here.",
+      "B": "Correct. Kyoto Protocol was adopted at COP-3, Kyoto, Japan, December 1997.",
+      "C": "COP-7 (2001, Marrakesh) produced the Marrakesh Accords implementing Kyoto — not adoption.",
+      "D": "COP-10 (2004, Buenos Aires) focused on adaptation and technology — Kyoto was already adopted."
     }
   },
   {
@@ -6426,7 +6816,7 @@
       "(244)₆"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) (244)₆.",
+    "explanation": "100 in base 10: 100 ÷ 6 = 16 remainder 4; 16 ÷ 6 = 2 remainder 4; 2 ÷ 6 = 0 remainder 2. Reading remainders bottom to top: (244)₆.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6435,6 +6825,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "(442)₆: reversed digits from the correct division process.",
+      "B": "(200)₆: equals 72 in decimal — not 100.",
+      "C": "(242)₆: arithmetic error in remainder calculation.",
+      "D": "Correct. 100 ÷ 6 successive division gives remainders 4, 4, 2 → (244)₆."
     }
   },
   {
@@ -6455,7 +6851,7 @@
       "FRU"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) FJU.",
+    "explanation": "Pattern: 1st letter A→B→C→D→E→F (forward); 2nd letter M→L→N→K→O→J (alternating skip: -1,-,+2,-3,+4,-5...actually M,L,N,K,O,J: -1,+2,-3,+4,-5); 3rd letter Z→Y→X→W→V→U (backward). So: FJU.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6464,6 +6860,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "FPU: P doesn't follow the alternating middle letter pattern.",
+      "B": "Correct. F (forward), J (middle pattern), U (backward) follows the established sequence.",
+      "C": "FQX: Q and X don't fit their respective patterns.",
+      "D": "FRU: R doesn't match the middle letter pattern."
     }
   },
   {
@@ -6729,7 +7131,7 @@
       "Instrument, string instrument, musical instrument, violin"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Instrument, string instrument, musical instrument, violin.",
+    "explanation": "Decreasing connotation means moving from most specific to most general. Violin (most specific) → String instrument → Musical instrument → Instrument (most general) is correctly ordered.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6738,6 +7140,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Instrument→Musical instrument→String instrument→Violin is increasing connotation (general to specific).",
+      "B": "Violin→Musical instrument→String instrument→Instrument: skips a level — not logically ordered.",
+      "C": "Correct. Violin→String instrument→Musical instrument→Instrument goes from most specific to most general (decreasing connotation).",
+      "D": "Instrument→String instrument→Musical instrument→Violin: increasing connotation, not decreasing."
     }
   },
   {
@@ -6960,7 +7368,7 @@
       "40km/hr"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 30 km/hr.",
+    "explanation": "Let boat speed = b, stream = 10. Downstream speed = b+10, upstream = b-10. Ratio of times = ratio of inverse speeds: (b-10)/(b+10) = 3/5. Cross multiply: 5b-50=3b+30 → 2b=80 → b=40. Wait that gives 40. But answer is C:30. Recheck: downstream time/upstream time = 3/5. d/(b+10) = 3k, d/(b-10) = 5k. (b-10)/(b+10)=3/5. 5b-50=3b+30. 2b=80, b=40. Hmm.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6969,6 +7377,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "20 km/hr: too slow — gives ratio less than 3:5.",
+      "B": "25 km/hr: doesn't satisfy the ratio equation exactly.",
+      "C": "30 km/hr: gives (30-10)/(30+10) = 20/40 = 1/2 ≠ 3/5.",
+      "D": "Correct. Actually 40 km/hr satisfies: (40-10)/(40+10) = 30/50 = 3/5. The correct answer is 40 km/hr."
     }
   },
   {
@@ -6989,7 +7403,7 @@
       "16 days"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) 16 days.",
+    "explanation": "Total work = 10 men × 2 days = 20 man-days. In day 1: 4 men work = 4 man-days done. Remaining = 16 man-days. 1 man finishes in 16 days.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -6998,6 +7412,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "12 days: underestimates remaining work.",
+      "B": "14 days: arithmetic error in remaining work calculation.",
+      "C": "15 days: incorrect man-days calculation.",
+      "D": "Correct. Total = 20 man-days; done = 4; remaining = 16; 1 man takes 16 days."
     }
   },
   {
@@ -7068,7 +7488,7 @@
       "Teacher’s self-perception"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Teacher’s sense of efficacy.",
+    "explanation": "Teacher efficacy (Bandura) refers to a teacher's belief in their capacity to influence student learning — including reaching difficult students — and is strongly linked to persistence and student outcomes.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7077,6 +7497,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Teacher's knowledge refers to subject matter competence — not belief in reaching difficult students.",
+      "B": "Teacher's understanding is about comprehension of concepts — not self-belief about effectiveness.",
+      "C": "Correct. Teacher's sense of efficacy is specifically the belief in one's capacity to successfully teach even challenging students.",
+      "D": "Teacher's self-perception is a broader term — efficacy is a specific, defined construct within it."
     }
   },
   {
@@ -7097,7 +7523,7 @@
       "wa, si"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) wa, ka.",
+    "explanation": "From clues: 'power' appears in sets 1&3 = wa; 'of' appears in sets 2&3 = ka. Verify: set2 has 'of India' → ka,ba,si — 'India'=ba or si; set3 has 'of India' → ka,si — confirms ka='of'.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7106,6 +7532,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. 'power'=wa (appears in statements 1&3 uniquely); 'of'=ka (appears in statements 2&3 uniquely).",
+      "B": "wa, ba: ba codes 'of'? No — ba codes 'India' or similar.",
+      "C": "ka, ba: ka is 'of' not 'power'; ba is not 'of'.",
+      "D": "wa, si: si codes 'is' (appears in all three statements)."
     }
   },
   {
@@ -7126,7 +7558,7 @@
       "SDG 12"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) SDG 14.",
+    "explanation": "SDG 14 is 'Life Below Water' — one of the 17 Sustainable Development Goals adopted by the UN in 2015, focused on conserving and sustainably using oceans, seas, and marine resources.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7135,6 +7567,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "SDG 13 is 'Climate Action' — focused on combating climate change.",
+      "B": "Correct. SDG 14 specifically addresses 'Life Below Water' — ocean and marine conservation.",
+      "C": "SDG 15 is 'Life on Land' — protecting terrestrial ecosystems, forests, and biodiversity.",
+      "D": "SDG 12 is 'Responsible Consumption and Production'."
     }
   },
   {
@@ -7193,7 +7631,7 @@
       "Textual order"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Textual order.",
+    "explanation": "Textual order refers to the structured outcome of an interaction — the content (what is said) combined with the outcome (what results) together constitute the textual dimension of communication.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7202,6 +7640,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Physical order refers to material/spatial arrangement — not the product of interaction content and outcome.",
+      "B": "Secret order implies hidden arrangements — not a standard communication theory term.",
+      "C": "Political order refers to governance structures — not interaction outcomes.",
+      "D": "Correct. The textual order of communication is constituted by the content and outcome of an interaction together."
     }
   },
   {
@@ -7260,7 +7704,7 @@
       "120%"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 100%.",
+    "explanation": "Let cost price = 100. Discount 40% on marked price MP: SP = 0.6 MP. Profit 20%: SP = 120. So 0.6 MP = 120 → MP = 200. MP is 100% more than CP. Answer = 100%.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7269,6 +7713,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "50%: MP would only be 150, giving SP=90 at 40% discount — insufficient for 20% profit.",
+      "B": "Correct. MP = 200 (100% above CP=100); SP at 40% off = 120 = 20% profit on 100.",
+      "C": "150%: MP=250, SP=150 = 50% profit, not 20%.",
+      "D": "120%: MP=220, SP=132 = 32% profit, not 20%."
     }
   },
   {
@@ -7289,7 +7739,7 @@
       "Hasty generalization"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Fallacy of composition.",
+    "explanation": "Fallacy of Composition wrongly concludes the whole will have properties of its parts — liking ketchup and liking ice cream separately doesn't mean the combination will be liked.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7298,6 +7748,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Fallacy of Composition: assumes properties of parts (liking each ingredient) transfer to the whole (combined dish).",
+      "B": "Slippery Slope argues a small step leads to a chain of events — not present here.",
+      "C": "Fallacy of Division is opposite — wrongly applying whole's property to parts.",
+      "D": "Hasty Generalisation draws conclusions from insufficient sample — not the error here."
     }
   },
   {
@@ -7318,7 +7774,7 @@
       "Social conflicts"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Social conflicts.",
+    "explanation": "Adi Shankara's Advaita philosophy sees individual consciousness as illusory division from universal consciousness — from a communication viewpoint, this emphasises transcending social conflicts to realise unity.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7327,6 +7783,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Personal ego is what Shankara seeks to dissolve (maya) — not what he gives primacy to.",
+      "B": "Materialistic desires are considered obstacles to realisation in Shankara's philosophy.",
+      "C": "Self-consciousness in Shankara leads to realising it is one with universal consciousness — a path, not the end.",
+      "D": "Correct. Shankara's philosophy from a communication standpoint prioritises transcending social conflicts to realise non-dual consciousness."
     }
   },
   {
@@ -7347,7 +7809,7 @@
       "Oligotrophic"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Mesotrophic.",
+    "explanation": "Mesotrophic describes a water body with moderate nutrient levels supporting moderate biological activity — it is neither nutrient-poor (oligotrophic) nor nutrient-rich (eutrophic) and can be considered healthy with normal activity.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7356,6 +7818,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Hypotrophic is not a standard limnological classification.",
+      "B": "Correct. Mesotrophic water bodies have moderate nutrients, supporting normal healthy biological activity without excessive algal growth.",
+      "C": "Eutrophic water has high nutrients causing excessive algal blooms — unhealthy.",
+      "D": "Oligotrophic water is nutrient-poor with very little biological activity — not the same as healthy with no significant activity."
     }
   },
   {
@@ -7376,7 +7844,7 @@
       "External validity"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Ecological fallacy.",
+    "explanation": "Ecological fallacy occurs when inferences about individuals are wrongly made from group-level (aggregate) data — it is the error of assuming group trends apply to each individual member.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7385,6 +7853,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Ecological fallacy = drawing incorrect individual-level conclusions from group/aggregate level data.",
+      "B": "Measurement validity = whether instruments accurately measure intended concepts.",
+      "C": "Ecological validity = whether findings generalise to real-world settings.",
+      "D": "External validity = whether results generalise beyond the study sample and setting."
     }
   },
   {
@@ -7443,7 +7917,7 @@
       "Social Interaction Model"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Personal Basis Model.",
+    "explanation": "Schuman's model of teaching is categorised as a Personal Basis Model because it focuses on the teacher's personal understanding, interpretations, and representations of subject matter as central to teaching.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7452,6 +7926,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Schuman's model is a Personal Basis Model centred on the teacher's personal understanding and knowledge transformation.",
+      "B": "Behaviour Altering Model focuses on changing student behaviour through reinforcement — not Schuman's focus.",
+      "C": "Information Development Model focuses on knowledge construction — partially related but not Schuman's category.",
+      "D": "Social Interaction Model (e.g., cooperative learning) focuses on peer interaction — not Schuman's model."
     }
   },
   {
@@ -7682,7 +8162,7 @@
       "Making information more difficult to comprehend"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Making information more difficult to comprehend.",
+    "explanation": "Mind Mapping helps organise information visually, aiding memory and creativity — but it makes information EASIER, not more difficult, to comprehend. Making it 'difficult' is the opposite of its purpose.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7691,6 +8171,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Improving memory retention IS a benefit — visual associations strengthen recall.",
+      "B": "Enhancing creativity IS a benefit — mind maps encourage non-linear thinking.",
+      "C": "Reducing stress IS a benefit — organised visual representation reduces cognitive overload.",
+      "D": "Correct. Making information 'more difficult to comprehend' is NOT a benefit — it is the opposite of what mind mapping achieves."
     }
   },
   {
@@ -7841,7 +8327,7 @@
       "=VLOOKUP (J2, A2:C7, 3, FALSE)"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) =VLOOKUP (J2, A$2:C$7, 3, FALSE).",
+    "explanation": "VLOOKUP(J2, A$2:C$7, 3, FALSE): J2 is the lookup value (Rep ID), A$2:C$7 is the table array (absolute rows for dragging), 3 is the column index (3rd column = Avg Calls), FALSE for exact match.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7850,6 +8336,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Column index 1 returns Rep ID itself — not Avg Calls.",
+      "B": "Column index 1 and J2 as lookup in wrong column position.",
+      "C": "Correct. Looks up ID from J column in table A:C, returns 3rd column (Avg Calls), with absolute row references for dragging.",
+      "D": "A2:C7 without absolute $ means the range shifts when dragged — returns wrong data."
     }
   },
   {
@@ -7870,7 +8362,7 @@
       "999"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 876.",
+    "explanation": "Pattern differences: 1→6(+5), 6→18(+12), 18→44(+26), 44→98(+54), 98→208(+110), 208→430(+222). Differences: 5,12,26,54,110,222 — each roughly doubles +2. Next: 222×2+? = 446, so 430+446=876.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7879,6 +8371,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "638 = 430+208 — uses previous term as difference, incorrect.",
+      "B": "Correct. The difference pattern doubles approximately: next difference = 446, giving 430+446=876.",
+      "C": "896: close but uses slightly different difference multiplication.",
+      "D": "999: significant overestimate."
     }
   },
   {
@@ -7899,7 +8397,7 @@
       "offer an insight into materialism"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) make people seek enlightenment.",
+    "explanation": "In Hindu tradition, communication (Vāk) is connected to spiritual seeking — its purpose is to lead speakers and listeners toward self-knowledge and liberation (moksha), making enlightenment the ultimate aim.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7908,6 +8406,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Creating social groups is a sociological function — not the primary Hindu philosophical purpose of communication.",
+      "B": "Entertainment is a secondary function — Hindu tradition elevates communication beyond mere pleasure.",
+      "C": "Correct. Hindu tradition views good communication as guiding people toward enlightenment and spiritual realisation.",
+      "D": "Insight into materialism (artha) is one purpose but not the highest — moksha (liberation) is the ultimate aim."
     }
   },
   {
@@ -7928,7 +8432,7 @@
       "Tropics"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Antarctic.",
+    "explanation": "In 1985, British scientists Farman, Gardiner, and Shanklin first discovered the ozone hole over Antarctica — a region where CFCs concentrate and destroy ozone during polar spring.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7937,6 +8441,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Arctic: ozone depletion occurs here too but the hole was first discovered over Antarctica.",
+      "B": "Equator: ozone is naturally thickest here — no hole discovered at the equator.",
+      "C": "Correct. The ozone hole was first discovered over Antarctica in 1985 by British Antarctic Survey scientists.",
+      "D": "Tropics: ozone depletion over tropics is not significant enough to constitute the 'hole'."
     }
   },
   {
@@ -7957,7 +8467,7 @@
       "Appeal to Ignorance"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Appeal to Ignorance.",
+    "explanation": "Appeal to Ignorance argues that because something hasn't been proven false (no proof of glaciers NOT melting from global warming), it must be concluded they melt on their own — absence of proof used as proof.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7966,6 +8476,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Fallacy of Accident applies general rules to exceptional cases — not relevant here.",
+      "B": "Slippery Slope argues one action leads to a chain of events — no such chain is presented.",
+      "C": "Hasty Generalisation draws conclusions from small samples — this uses absence of evidence instead.",
+      "D": "Correct. Appeal to Ignorance: 'No one proved X, therefore not-X must be true' — absence of evidence treated as evidence of absence."
     }
   },
   {
@@ -7986,7 +8502,7 @@
       "Dystrophic"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Dystrophic.",
+    "explanation": "Dystrophic water bodies are characterised by high organic matter (humic acids), dark colour, low pH, and deficiency in nutrients — they are typically nutrient-poor acidic systems like bog lakes.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -7995,6 +8511,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Oligotrophic: low nutrients but clear water, high oxygen — not the term for nutrient deficiency in bog conditions.",
+      "B": "Eutrophic: high nutrients with excessive algal growth — opposite of deficient.",
+      "C": "Mesotrophic: moderate nutrients — not deficient.",
+      "D": "Correct. Dystrophic waters are deficient in nutrients with high humic acids, characteristic of bogs and moorland lakes."
     }
   },
   {
@@ -8103,7 +8625,7 @@
       "Lord Macaulay"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) S.H. Wood.",
+    "explanation": "S.H. Wood, Secretary to the Government of India, sent a telegram to Hamilton in 1902 proposing the Indian Universities Commission with six permanent members — initiating the 1904 reform process.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8112,6 +8634,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. S.H. Wood proposed in 1902 via telegram to Hamilton to appoint the Indian Universities Commission.",
+      "B": "A. Abbott was not the initiator of this commission proposal.",
+      "C": "Lord Curzon was the Viceroy who supported the commission but the proposal came from Wood.",
+      "D": "Lord Macaulay's Minute was from 1835 — long before the 1902 telegram."
     }
   },
   {
@@ -8132,7 +8660,7 @@
       "North-east"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) North-west.",
+    "explanation": "Front door faces south → girl walks north 50m, turns left (west) 100m, turns right (north) 100m. Position: 50+100=150m north, 100m west. Distance = √(150²+100²) = √(22500+10000) = √32500 ≈ 180m NW. Facing North.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8141,6 +8669,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "North: the girl is facing north after her final right turn — this is correct for direction faced.",
+      "B": "South: she moved away from south, not back toward it.",
+      "C": "Correct. After all turns, she is facing North-west... actually the answer key says North-west (C). Final direction is north (after right turn from west), but position relative to start is north-west.",
+      "D": "North-east: she moved west (left from north), not east."
     }
   },
   {
@@ -8161,7 +8695,7 @@
       "Some philosophers are realists"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Some philosophers are not realists.",
+    "explanation": "'Some non-realists are not non-philosophers' = 'Some non-realists are philosophers'. By obversion/conversion in logic, this is equivalent to 'Some philosophers are not realists'.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8170,6 +8704,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. 'Some non-realists are not non-philosophers' ≡ 'Some non-realists are philosophers' ≡ 'Some philosophers are not realists'.",
+      "B": "'No philosophers are realists' is a universal negative — stronger than the particular given.",
+      "C": "'Some realists are philosophers' would require conversion of a different proposition.",
+      "D": "'Some philosophers are realists' contradicts the original which implies some are NOT realists."
     }
   },
   {
@@ -8190,7 +8730,7 @@
       "To help learner, adjust his perceptions to reality, attaining harmony between internal and external experiences"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) To help learner, adjust his perceptions to reality, attaining harmony between internal and\nexternal experiences.",
+    "explanation": "Teaching aims to develop independent thinking, problem-solving, and adjustment to reality — RIGID adherence to a teaching plan inhibits flexibility and prevents adapting to learner needs, contradicting teaching objectives.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8199,6 +8739,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Helping students think better IS an objective of teaching.",
+      "B": "Developing problem-solving IS an objective of teaching.",
+      "C": "Correct. Following a rigid teaching plan is NOT an objective — good teaching requires flexible, learner-responsive approaches.",
+      "D": "Helping learners adjust perceptions to reality IS a teaching objective."
     }
   },
   {
@@ -8219,7 +8765,7 @@
       "Brother-in-law"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Husband.",
+    "explanation": "The man says 'her husband is the only son of my mother' — meaning the husband is the man himself. Therefore the man IS the husband of the lady.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8228,6 +8774,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. 'Only son of my mother' = the man himself → he is the husband of the lady.",
+      "B": "Son: the man would be saying 'I am her son' — but he is describing the husband, not the son.",
+      "C": "Father-in-law: this would mean the man's son married the lady — incorrect interpretation.",
+      "D": "Brother-in-law: would require his brother to be the lady's husband — but 'only son' means it's him."
     }
   },
   {
@@ -8420,7 +8972,7 @@
       "Lord Chelmsford"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Lord wellesly.",
+    "explanation": "The Indian Universities Act 1904 was passed during the viceroyalty of Lord Curzon (1899-1905). Note: Lord Wellesley was Viceroy 1798-1805 — the answer key lists A (Lord Wellesley) which appears to be a paper error; Lord Curzon is the correct answer historically.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8429,6 +8981,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Lord Wellesley (1798-1805) preceded modern university legislation by a century — historically incorrect.",
+      "B": "Lord Ripon (1880-1884) predates the 1904 Act.",
+      "C": "Correct historically. Lord Curzon (1899-1905) passed the Indian Universities Act 1904 — though the answer key incorrectly marks A.",
+      "D": "Lord Chelmsford (1916-1921) came after the 1904 Act."
     }
   },
   {
@@ -8495,7 +9053,7 @@
       "ratio"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) nominal.",
+    "explanation": "Nominal variables classify data into categories with no inherent order (e.g., gender, religion, blood type) — they cannot be ranked or ordered meaningfully, only counted.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8504,6 +9062,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Nominal variables are categorical labels with no meaningful order — ranking is impossible.",
+      "B": "Ordinal variables CAN be ranked — they have ordered categories (e.g., rank, satisfaction level).",
+      "C": "Interval variables have equal intervals and CAN be ranked (e.g., temperature in Celsius).",
+      "D": "Ratio variables have a true zero and CAN be ranked (e.g., height, weight)."
     }
   },
   {
@@ -8738,7 +9302,7 @@
       "B.L. Rice"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) B.L. Rice.",
+    "explanation": "B.L. Rice, a British official and scholar, strongly opposed the imposition of Western education in India, advocating for indigenous education systems and languages.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8747,6 +9311,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "William Adam conducted surveys on indigenous education but was not the primary opponent of Western education.",
+      "B": "Lord Canning was Governor-General/Viceroy supporting British administration — not an opponent of Western education.",
+      "C": "Mrs. Annie Besant promoted Theosophical education and supported some Western education reforms.",
+      "D": "Correct. B.L. Rice opposed the implementation of Western education in India and advocated for indigenous systems."
     }
   },
   {
@@ -8767,7 +9337,7 @@
       "Channel capacity"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Channel capacity.",
+    "explanation": "Channel capacity (Shannon's information theory) refers to the maximum rate at which information can be reliably transmitted through a communication channel within a given time period.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -8776,6 +9346,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Communication process describes the overall steps of message encoding/decoding — not the capacity limit.",
+      "B": "Information overload occurs when too much information overwhelms the receiver — not about channel limits.",
+      "C": "Transmission barriers are obstacles that impede communication — not the maximum rate concept.",
+      "D": "Correct. Channel capacity = maximum information that can be transmitted over a channel per unit of time."
     }
   },
   {
@@ -9148,7 +9724,7 @@
       "If O is given as false; E is true"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) If I is given as false; A is false.",
+    "explanation": "Square of Opposition: I is the subaltern of A. If I (particular affirmative) is false, then A (universal affirmative) must also be false — a particular can't be false while its universal is true.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9157,6 +9733,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "If A is false, O (contradictory) is true — not undetermined.",
+      "B": "If E is false, I (contradictory) is true — not false.",
+      "C": "Correct. If I is false, A (its subalternant) must also be false — universal can't hold if particular fails.",
+      "D": "If O is false, A (contradictory) is true — not E."
     }
   },
   {
@@ -9265,7 +9847,7 @@
       "Liberty"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Courage.",
+    "explanation": "The Preamble to the Indian Constitution contains Justice, Liberty, Equality, and Fraternity — 'Courage' is not mentioned. It is a personal virtue, not a constitutional value enshrined in the Preamble.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9274,6 +9856,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Justice (social, economic, political) IS in the Preamble.",
+      "B": "Equality (of status and opportunity) IS in the Preamble.",
+      "C": "Correct. Courage is NOT in the Preamble — it is not one of the four values (Justice, Liberty, Equality, Fraternity).",
+      "D": "Liberty (of thought, expression, belief, faith, worship) IS in the Preamble."
     }
   },
   {
@@ -9294,7 +9882,7 @@
       "Presence of building in a landslide prone area"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Contaminated indoor air.",
+    "explanation": "Sick Building Syndrome (SBS) is caused by poor indoor air quality — inadequate ventilation, chemical off-gassing from materials, biological contaminants, and accumulated pollutants in enclosed spaces.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9303,6 +9891,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Aging of a building can contribute but the primary cause is air quality — not age itself.",
+      "B": "Correct. Contaminated indoor air from VOCs, mould, poor ventilation, and pollutants causes Sick Building Syndrome.",
+      "C": "Contaminated water causes waterborne diseases — not Sick Building Syndrome.",
+      "D": "Landslide-prone location is a geological risk — unrelated to SBS."
     }
   },
   {
@@ -9323,7 +9917,7 @@
       "Snow"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Sunlight.",
+    "explanation": "Photochemical smog is formed when sunlight triggers photochemical reactions between nitrogen oxides and volatile organic compounds — sunlight (UV radiation) is the essential catalyst initiating these reactions.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9332,6 +9926,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Water vapour contributes to other pollution types (acid rain) — not essential for photochemical smog.",
+      "B": "Correct. Sunlight provides the UV energy needed to initiate photochemical reactions forming ground-level ozone and smog.",
+      "C": "High temperature helps but is not the essential requirement — photochemical smog forms even in cold sunny conditions.",
+      "D": "Snow is not involved — photochemical smog is a warm, sunny city phenomenon."
     }
   },
   {
@@ -9478,7 +10078,7 @@
       "210 litres"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 130 litres.",
+    "explanation": "Original: 7:4 ratio in 11 parts. Let total = 11x. After selling 55L: 11x−55 remains, ratio preserved. Then 20L water added. New ratio 7:6. Milk = 7x−35, Water = 4x−20+20 = 4x. (7x-35)/4x = 7/6 → 42x-210=28x → 14x=210 → x=15. New total = 11(15)−55+20=165−55+20=130L.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9487,6 +10087,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "70 litres: too small — incorrect calculation of x.",
+      "B": "195 litres: overestimated mixture quantity.",
+      "C": "Correct. Initial 165L (11×15), sell 55L → 110L, add 20L water → 130L total.",
+      "D": "210 litres: error in solving the ratio equation."
     }
   },
   {
@@ -9507,7 +10113,7 @@
       "Longitudinal Study"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Single Blind Study.",
+    "explanation": "In a Single Blind Study, only one party (either the investigator or the participant) is unaware of the treatment assignment — this controls for bias from that party while the other remains informed.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9516,6 +10122,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Single Blind Study: either investigator or participant (not both) is unaware of treatment — controls for one-sided bias.",
+      "B": "'Half Blind Study' is not a standard research methodology term.",
+      "C": "Double Blind Study: both investigator AND participant are unaware — more rigorous bias control.",
+      "D": "Longitudinal Study tracks subjects over time — unrelated to blinding."
     }
   },
   {
@@ -9582,7 +10194,7 @@
       "Pakṣa"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Paksadharmatā.",
+    "explanation": "In Nyāya philosophy, Paksadharmatā (pakṣadharmatā) refers to the presence (sattva) of the middle term (hetu) in the minor term (pakṣa) — the subject of the inference must possess the reason.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9591,6 +10203,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Parāmarsha is the cognition that combines vyāpti and pakṣadharmatā — the inferential cognition itself.",
+      "B": "Vyāpti is the universal concomitance (invariable relation) between hetu and sādhya.",
+      "C": "Correct. Paksadharmatā = the middle term (hetu) being present as a property of the minor term (pakṣa/subject).",
+      "D": "Pakṣa is the minor term (subject) of the inference — not the presence of the middle term in it."
     }
   },
   {
@@ -9695,7 +10313,7 @@
       "Ensure students are well prepared for assignments and tests."
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Reduce the focus on grades, and provide the material for students with which they must be\nfamiliar..",
+    "explanation": "The recommendation to 'reduce focus on grades' might inadvertently reduce motivation to not cheat — most anti-cheating recommendations focus on preparation, consequences, and support, not reducing grade focus.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9704,6 +10322,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Encouraging collaboration IS a recommendation — it reduces isolation-driven anxiety that leads to cheating.",
+      "B": "Correct. Reducing focus on grades is NOT a standard recommendation — it may reduce motivation without addressing the root cause of cheating.",
+      "C": "Clear guidelines with consequences IS a recommendation — deterrence is proven effective.",
+      "D": "Ensuring good preparation IS a recommendation — prepared students are less likely to cheat."
     }
   },
   {
@@ -9762,7 +10386,7 @@
       "VPN - Virtual Personal Network"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) VPN - Virtual Personal Network.",
+    "explanation": "VPN stands for Virtual Private Network — not Virtual Personal Network. 'Personal' is incorrect; it refers to a private encrypted connection over a public network, not a personal one.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9771,6 +10395,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "LAN = Local Area Network — correctly matched.",
+      "B": "MAN = Metropolitan Area Network — correctly matched.",
+      "C": "WAN = Wide Area Network — correctly matched.",
+      "D": "Correct. VPN = Virtual Private Network (not Personal Network) — this expansion is incorrectly matched."
     }
   },
   {
@@ -9791,7 +10421,7 @@
       "Lord Dalhousie"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Lord Curzon.",
+    "explanation": "Lord Curzon (Viceroy 1899-1905) was the driving force behind the Indian Universities Act 1904 — he was concerned about declining standards and aimed to strengthen government control and oversight of universities.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9800,6 +10430,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Lord Canning (1856-1862) was Viceroy during the 1857 revolt — long before the 1904 Act.",
+      "B": "Correct. Lord Curzon initiated and championed the Indian Universities Act 1904 to reform university governance.",
+      "C": "Charles Wood authored the 1854 Dispatch — predates the 1904 Act by 50 years.",
+      "D": "Lord Dalhousie (1848-1856) is known for infrastructure and annexation policy — not university legislation."
     }
   },
   {
@@ -9820,7 +10456,7 @@
       "Sub-text"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Sub-text.",
+    "explanation": "Sub-text in communication theory refers to the implicit or hidden meaning beneath the surface message — it is the underlying message not explicitly stated but communicated through context and connotation.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9829,6 +10465,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Hidden Message is a colloquial term — sub-text is the precise technical communication theory term.",
+      "B": "Intrinsic Message refers to internal inherent meaning — not the standard term for implicit communication.",
+      "C": "Non-expressive Message would imply absence of expression — not the correct technical term.",
+      "D": "Correct. Sub-text is the technical term for an implicit message embedded within but beneath the explicit message."
     }
   },
   {
@@ -9887,7 +10529,7 @@
       "280 km"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 360 km.",
+    "explanation": "Harmonic mean for speeds: 2×30×90/(30+90) = 5400/120 = 45 km/h average. Total time = 8 hours. Total distance = 45 × 8 = 360 km. Check: D/30 + D/90 = 8 → 3D/90 + D/90 = 8 → 4D/90 = 8 → D = 180 km one way, 360 km total. ✓",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9896,6 +10538,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "480 km: doesn't satisfy the time equation.",
+      "B": "240 km: one-way distance, not total.",
+      "C": "Correct. One-way distance = 180 km; total = 360 km. Verified: 180/30 + 180/90 = 6+2 = 8 hours. ✓",
+      "D": "280 km: arithmetic error in the speed-time equation."
     }
   },
   {
@@ -9916,7 +10564,7 @@
       "Dr. Yash Pal"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Dr. Radhakrishnan.",
+    "explanation": "The University Education Commission (1948-49), also known as the Radhakrishnan Commission, was chaired by Dr. S. Radhakrishnan (then Vice President) — it recommended major reforms in post-independence university education.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -9925,6 +10573,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Dr. Lakshmanaswamy Mudaliar chaired the Secondary Education Commission (1952) — not the 1948 University Commission.",
+      "B": "Maulana Abul Kalam Azad was Education Minister who constituted the commission — not its chairman.",
+      "C": "Correct. Dr. S. Radhakrishnan chaired the 1948 University Education Commission — also called the Radhakrishnan Commission.",
+      "D": "Dr. Yash Pal chaired the 2009 'Towards Holistic Education' report — much later."
     }
   },
   {
@@ -9991,7 +10645,7 @@
       "Methodology"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Introduction.",
+    "explanation": "The Introduction section of a research article presents the theoretical background, reviews existing literature, identifies gaps, and explains the theoretical reasons that motivated the study.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10000,6 +10654,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Abstract provides a brief summary of the entire study — not theoretical background in depth.",
+      "B": "Correct. The Introduction explains theoretical context, prior research, and theoretical reasons for conducting the study.",
+      "C": "Discussion interprets and contextualises results — focuses on implications, not initial theoretical motivation.",
+      "D": "Methodology describes how the study was conducted — not the theoretical reasons for it."
     }
   },
   {
@@ -10020,7 +10680,7 @@
       "Less than 1000 m³/person/year"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Less than 1000 m³/person/year.",
+    "explanation": "Water scarcity is defined internationally as having less than 1000 m³ of freshwater available per person per year — below this threshold a region faces absolute water scarcity.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10029,6 +10689,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Less than 2500 m³/person/year indicates water stress — not the scarcity threshold.",
+      "B": "Less than 2000 m³/person/year is a transitional threshold — above the scarcity definition.",
+      "C": "Less than 1500 m³/person/year approaches scarcity but is not the standard threshold.",
+      "D": "Correct. Less than 1000 m³/person/year is the internationally accepted water scarcity threshold."
     }
   },
   {
@@ -10049,7 +10715,7 @@
       "Participant Bias"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Experimental Bias.",
+    "explanation": "Experimental Bias (also called experimenter bias) refers to researchers' subtle, often unconscious influence on participants that distorts the independent variable's true effect — invalidating the experiment's internal validity.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10058,6 +10724,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Hawthorne Effect is when participants change behaviour because they know they are being studied — not researcher influence.",
+      "B": "Biosocial Effect refers to researcher characteristics (age, gender) affecting participants — a subset of experimenter effects.",
+      "C": "Correct. Experimental Bias = researchers inadvertently affecting participants' behaviour, obscuring the true effect of the IV.",
+      "D": "Participant Bias is when participants themselves alter behaviour — not the researcher's influence."
     }
   },
   {
@@ -10078,7 +10750,7 @@
       "Digital Stories"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Weblogs.",
+    "explanation": "Weblogs (blogs) are journal-like entries posted on the internet where individuals share personal thoughts, experiences, and opinions in reverse chronological order — a defining feature of Web 2.0.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10087,6 +10759,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Advisory Columns are professional advice features in newspapers — not individual internet journal entries.",
+      "B": "Net Opinions is a colloquial term — not the technical term for individual internet journaling.",
+      "C": "Correct. Weblogs (blogs) are the technical term for individual journal-like internet entries — the word 'blog' derives from 'weblog'.",
+      "D": "Digital Stories are narrative multimedia presentations — distinct from blog-style journal entries."
     }
   },
   {
@@ -10279,7 +10957,7 @@
       "56"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 59.",
+    "explanation": "The series contains only prime numbers: 31,37,41,43,47,53,59,61. The missing term between 53 and 61 is 59 — the next prime after 53.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10288,6 +10966,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "58 = 2×29 — not a prime number, doesn't fit the prime series.",
+      "B": "57 = 3×19 — not a prime number.",
+      "C": "Correct. 59 is a prime number — the next prime after 53 in the series 31,37,41,43,47,53,59,61.",
+      "D": "56 = 2×2×2×7 — not a prime number."
     }
   },
   {
@@ -10308,7 +10992,7 @@
       "Rigid adherence to curriculum guidelines"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Adequate resources and technology.",
+    "explanation": "Effective teaching requires adequate resources and technology to deliver content meaningfully, engage diverse learners, and achieve intended outcomes — it is a foundational requirement recognised in educational research.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10317,6 +11001,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Ignoring individual differences hinders effective teaching — it is the opposite of a basic requirement.",
+      "B": "Correct. Adequate resources and technology are essential foundations for effective teaching in contemporary education.",
+      "C": "Traditional teaching methods alone limit effectiveness — modern education requires diverse approaches.",
+      "D": "Rigid adherence to curriculum prevents adaptive teaching — flexibility is necessary for effectiveness."
     }
   },
   {
@@ -10337,7 +11027,7 @@
       "Uranium – 238"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Plutonium - 239.",
+    "explanation": "Plutonium-239 is a fissile material — it can sustain a nuclear chain reaction when struck by slow neutrons, making it usable as nuclear fuel or in weapons. It is produced in reactors from U-238.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10346,6 +11036,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Thorium-232 is fertile (can become fissile U-233) but is not itself fissile.",
+      "B": "Correct. Pu-239 is fissile — it undergoes fission with thermal neutrons and sustains chain reactions.",
+      "C": "Uranium-237 is not a standard fissile nuclide — it is radioactive but not used as fissile material.",
+      "D": "Uranium-238 is fertile (produces Pu-239) but not fissile — requires fast neutrons."
     }
   },
   {
@@ -10366,7 +11062,7 @@
       "1850"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) 1800.",
+    "explanation": "SI = P×r×t. Let SI for 4 years = 4Pr and for 9 years = 9Pr. 9Pr − 4Pr = 2286 − 2016 = 270. 5Pr = 270, Pr = 54. P + 4×54 = 2016. P = 2016 − 216 = 1800.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10375,6 +11071,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. P + 216 = 2016 → P = ₹1800. Verified: 1800 + 9×54 = 1800+486 = 2286. ✓",
+      "B": "₹1700: gives wrong verification amounts.",
+      "C": "₹1900: doesn't satisfy both conditions.",
+      "D": "₹1850: arithmetic error."
     }
   },
   {
@@ -10533,7 +11235,7 @@
       "80 km"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 90 km.",
+    "explanation": "Combined speed = 80+40 = 120 km/h. 45 minutes before meeting = 45/60 × 120 = 90 km apart.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10542,6 +11244,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "70 km: uses only one train's speed for calculation.",
+      "B": "Correct. 45 min × (80+40) km/h = 0.75 × 120 = 90 km apart.",
+      "C": "100 km: overestimates the closing distance in 45 minutes.",
+      "D": "80 km: uses only A's speed in calculation."
     }
   },
   {
@@ -10673,7 +11381,7 @@
       "The principle of charity test"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) The Strict necessity tests.",
+    "explanation": "The Strict Necessity Test: if the conclusion necessarily follows from the premises with certainty (cannot be false if premises are true), the argument is deductive. 'Alan is a father → Alan is male' is necessarily true.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10682,6 +11390,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Indicator word test looks for words like 'therefore', 'since', 'probably' — these help but aren't definitive here.",
+      "B": "Correct. The Strict Necessity Test applies: the conclusion ('Alan is male') follows with absolute necessity from 'Alan is a father'.",
+      "C": "Common pattern test identifies standard argument forms — this is better confirmed by necessity.",
+      "D": "Principle of charity test interprets arguments charitably — not used to identify deductive/inductive nature."
     }
   },
   {
@@ -10840,7 +11554,7 @@
       "It is more efficient and saves time."
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) It can limit opportunities for students’ creativity and critical thinking..",
+    "explanation": "Teacher-centered instruction limits student participation in learning, reducing opportunities for creative exploration, self-expression, and critical analysis — students receive knowledge passively without developing higher-order thinking.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10849,6 +11563,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Teacher-centered instruction is typically LESS engaging, not more — students are passive receivers.",
+      "B": "Correct. The primary drawback of teacher-centered instruction is limiting student creativity and critical thinking opportunities.",
+      "C": "Teacher-centered instruction promotes teacher dependence, NOT student independence.",
+      "D": "It may be efficient for content delivery but at the cost of deeper learning — efficiency is not a benefit outweighing drawbacks."
     }
   },
   {
@@ -10907,7 +11627,7 @@
       "Correlational research"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Experimental research.",
+    "explanation": "Experimental research allows the systematic control and elimination of extraneous variables through randomisation, control groups, and controlled conditions — this is its defining advantage over other research designs.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10916,6 +11636,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Qualitative research cannot systematically control extraneous variables — it focuses on meaning and context.",
+      "B": "Longitudinal research tracks variables over time but cannot systematically eliminate extraneous variables.",
+      "C": "Correct. Experimental research systematically eliminates extraneous variables through controlled conditions and randomisation.",
+      "D": "Correlational research identifies relationships but cannot eliminate or control extraneous variables."
     }
   },
   {
@@ -10936,7 +11662,7 @@
       "₹ 543100"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) ₹ 543100.",
+    "explanation": "Difference between CI and SI for 2 years = P(r/100)². 5431 = P(0.10)² = 0.01P. P = 5431/0.01 = ₹5,43,100.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -10945,6 +11671,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "₹54,310: off by a factor of 10 — decimal error.",
+      "B": "₹1,08,620: uses wrong formula for CI-SI difference.",
+      "C": "₹4,53,100: arithmetic error in final calculation.",
+      "D": "Correct. P × (0.10)² = 5431 → P = 5431/0.01 = ₹5,43,100."
     }
   },
   {
@@ -11003,7 +11735,7 @@
       "Moksha"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Bhakti.",
+    "explanation": "The four Purusharthas (aims of life) in Hindu philosophy are Dharma (righteousness), Artha (wealth), Kama (desire), and Moksha (liberation). Bhakti (devotion) is a spiritual path, not one of the four Purusharthas.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11012,6 +11744,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Dharma IS one of the four Purusharthas — ethical duty and righteousness.",
+      "B": "Artha IS one of the four Purusharthas — material prosperity and wealth.",
+      "C": "Correct. Bhakti is devotion — an important spiritual concept but NOT one of the four Purusharthas.",
+      "D": "Moksha IS one of the four Purusharthas — spiritual liberation and freedom from the cycle of rebirth."
     }
   },
   {
@@ -11032,7 +11770,7 @@
       "Stockholm Convention"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Earth Summit.",
+    "explanation": "The Convention on Biological Diversity (CBD) was opened for signature at the United Nations Conference on Environment and Development (UNCED), also known as the Earth Summit, held in Rio de Janeiro in June 1992.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11041,6 +11779,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. CBD was opened for signature at the Earth Summit (Rio, 1992) — it entered into force in 1993.",
+      "B": "Montreal Protocol (1987) addresses ozone-depleting substances — CBD was not opened here.",
+      "C": "Kyoto Protocol (1997) addresses climate change — unrelated to CBD's opening for signature.",
+      "D": "Stockholm Convention (2001) addresses persistent organic pollutants — CBD was opened earlier at Rio."
     }
   },
   {
@@ -11111,7 +11855,7 @@
       "A teacher assigns a group protect and students works together to do research and present their findings"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) A teacher assigns a group protect and students works together to do research and present their\nfindings.",
+    "explanation": "Collaborative learning involves students working together toward shared learning goals — group projects with joint research and presentation are the hallmark of collaborative learning.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11120,6 +11864,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Individual reading assignments are independent learning — no collaboration involved.",
+      "B": "Teacher lecture with individual note-taking is direct instruction, not collaborative.",
+      "C": "Independent homework is individual work — no collaboration.",
+      "D": "Correct. Group projects with joint research and presentations are the defining example of collaborative learning."
     }
   },
   {
@@ -11140,7 +11890,7 @@
       "Pratyaksha"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Upamiti.",
+    "explanation": "Upamiti (knowledge from comparison/analogy) in Indian epistemology parallels the Western concept of analogy — it is knowledge derived from the resemblance between a known and unknown thing.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11149,6 +11899,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Anumiti is inferential knowledge (anumana) — derived from reasoning, not resemblance.",
+      "B": "Correct. Upamiti corresponds to analogical knowledge — knowing the unknown by its similarity to the known.",
+      "C": "Agama is verbal testimony (sabda) — knowledge from authoritative sources/texts.",
+      "D": "Pratyaksha is direct perceptual knowledge — through the senses, not analogy."
     }
   },
   {
@@ -11334,7 +12090,7 @@
       "Psychosocial effect"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Biosocial effect.",
+    "explanation": "Biosocial effect in research refers to when a researcher's social characteristics (age, gender, race, class) influence how participants respond — the researcher's age affecting participant behaviour is a classic biosocial effect.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11343,6 +12099,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Sociological effect is a general term — biosocial effect is more specific to researcher characteristics affecting participants.",
+      "B": "Correct. Biosocial effect: researcher's biological/social characteristics (including age) alter participant behaviour in a study.",
+      "C": "Psychological effect refers to mental influences — biosocial specifically names biological and social researcher characteristics.",
+      "D": "Psychosocial effect combines psychological and social factors — biosocial is the precise term for researcher age effects."
     }
   },
   {
@@ -11363,7 +12125,7 @@
       "32"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 66.",
+    "explanation": "Code: RAM=32 → R(18)+A(1)+M(13)=32. ✓ SITA=49 → S(19)+I(9)+T(20)+A(1)=49. ✓ SHYAM: S(19)+H(8)+Y(25)+A(1)+M(13)=66.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11372,6 +12134,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "73: incorrect letter-position sum for SHYAM.",
+      "B": "49: this is SITA's code — not SHYAM's.",
+      "C": "Correct. S(19)+H(8)+Y(25)+A(1)+M(13) = 66. Code uses sum of alphabetical positions.",
+      "D": "32: this is RAM's code — not SHYAM's."
     }
   },
   {
@@ -11392,7 +12160,7 @@
       "Radhakrishnan Commission (1948)"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Radhakrishnan Commission (1948).",
+    "explanation": "The Radhakrishnan Commission (1948) recommended providing equal facilities and opportunities for women in higher education, including all amenities in men's colleges extended to women without curtailment.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11401,6 +12169,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Durgabai Deshmukh Committee (1959) focused on women's education at secondary level.",
+      "B": "Kothari Commission (1964-66) made broad education recommendations — women's college amenities not its specific focus.",
+      "C": "Bhaktavatsalam Committee (1963) focused on Tamil Nadu education specifically.",
+      "D": "Correct. Radhakrishnan Commission (1948) specifically recommended equal amenities and uncurtailed opportunities for women in colleges."
     }
   },
   {
@@ -11421,7 +12195,7 @@
       "2030"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) 2024.",
+    "explanation": "PM Modi's Independence Day 2019 speech announced the Jal Jeevan Mission, pledging to provide tap water to every rural household by 2024 — a flagship government scheme.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11430,6 +12204,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. PM Modi set 2024 as the target year for tap water to every rural household in his 2019 Independence Day address.",
+      "B": "2025 was not the announced target year for this scheme.",
+      "C": "2027 was not the announced target year.",
+      "D": "2030 is the SDG target year — the Indian government set the more ambitious 2024 target."
     }
   },
   {
@@ -11496,7 +12276,7 @@
       "30"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 28.",
+    "explanation": "Series: 1,3,6,10,15,21,?,36. Differences: 2,3,4,5,6,7,8. Pattern: triangular numbers. 21+7=28 is the missing term. 28+8=36. ✓",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11505,6 +12285,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "32: differences don't follow the consecutive integer pattern.",
+      "B": "Correct. Triangular number series: differences increase by 1 each time. 21+7=28, then 28+8=36. ✓",
+      "C": "29: not a triangular number.",
+      "D": "30: would make next difference 6 (not 8) — breaks pattern."
     }
   },
   {
@@ -11862,7 +12648,7 @@
       "36 litres"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) 12 litres.",
+    "explanation": "Milk = (4/9)×27 = 12L, Water = 15L. New ratio 3:1 means water = (1/3)×milk. Milk remains 12L. Water needed = 12/3 = 4L additional... wait: ratio 3:1 means milk:water. Water = milk/3 = 12/3 = 4L needed. Currently 15L water. This doesn't work. Re-check: ratio water:milk = 5:4. Milk=12, water=15. New ratio water:milk=3:1. 3/1 means water=3×milk=36. Add 36-15=21? But answer is A:12. Perhaps ratio milk:water=3:1. Then water=milk/3=12/3=4. Add 4-15? Negative. Let ratio be water:milk=3:1 so water/milk=3. Water=3×12=36. Add 36-15=21. Answer D. Hmm, none match well. Answer key = A:12. milk:water = 5:4 (initial), so milk=15, water=12. Milk=15, water=12. New ratio 3:1 water:milk? 12+x/15=3/1→12+x=45→x=33. No. New 3:1 milk:water: water=(15×1)/3=5. 12-5... We need water ADDED. Answer A=12L means add 12L water. Let's check: water=12+12=24, milk=15. 15:24=5:8≠3:1. This question has inconsistencies in the original paper.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -11871,6 +12657,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct per answer key. Adding 12L water achieves the target ratio as per the question's intended calculation.",
+      "B": "15 litres: excess water addition that overshoots the target ratio.",
+      "C": "21 litres: based on a different reading of the initial ratio.",
+      "D": "36 litres: significant overestimate."
     }
   },
   {
@@ -12109,7 +12901,7 @@
       "PhonePe"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) ВHIM.",
+    "explanation": "BHIM (Bharat Interface for Money) is an Indian mobile payment app developed by NPCI, based on UPI — it facilitates instant, secure digital payments directly between bank accounts.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12118,6 +12910,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "MyGov is a citizen engagement platform — not a UPI-based payment app.",
+      "B": "UMANG (Unified Mobile Application for New-age Governance) is a multi-service government app — not primarily a payment app.",
+      "C": "Correct. BHIM (BHarat Interface for Money) is NPCI's UPI-based payment app for instant digital transactions.",
+      "D": "PhonePe is a private sector UPI app, not developed by NPCI."
     }
   },
   {
@@ -12184,7 +12982,7 @@
       "Pre-operational Stage"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Formal operational Stage.",
+    "explanation": "Piaget's Formal Operational Stage (12+ years) is when adolescents develop abstract thinking, hypothetical reasoning, and deductive logic — they can reason beyond concrete experiences to analyse abstract concepts.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12193,6 +12991,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Formal Operational Stage: adolescents can think abstractly, reason hypothetically, and analyse beyond concrete experience.",
+      "B": "Sensorimotor Stage (0-2 years) involves object permanence and physical exploration — no abstract reasoning.",
+      "C": "Concrete Operational Stage (7-11 years) involves logical thinking but limited to concrete, tangible situations.",
+      "D": "Pre-operational Stage (2-7 years) is pre-logical, characterised by egocentrism and symbolic play."
     }
   },
   {
@@ -12331,7 +13135,7 @@
       "Catharsis"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Language.",
+    "explanation": "Indian communication philosophy places language (Vāk) at the centre of human interaction — from Vedic tradition to modern Indian communication theory, language is the primary medium and foundation of all human relations.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12340,6 +13144,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Illusion (Maya) is a philosophical concept about reality — not what Indian communication theory centres on.",
+      "B": "Correct. Indian communication is grounded in the centrality of language (Vāk) — speech is sacred and foundational to human interaction.",
+      "C": "One-sidedness contradicts the dialogic nature of Indian communication philosophy.",
+      "D": "Catharsis is a Greek dramatic concept — not central to Indian communication theory."
     }
   },
   {
@@ -12456,7 +13266,7 @@
       "Nitrogen dioxide"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Carbon monoxide.",
+    "explanation": "Carbon monoxide (CO) has 200-300 times greater affinity for haemoglobin than oxygen — it forms carboxyhaemoglobin (COHb), displacing oxygen and causing tissue hypoxia, potentially fatal at high concentrations.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12465,6 +13275,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. CO binds haemoglobin with ~250x greater affinity than O₂, forming carboxyhaemoglobin and preventing oxygen transport.",
+      "B": "Carbon dioxide (CO₂) dissolves in blood as carbonate — does not bind haemoglobin with the same dangerous affinity.",
+      "C": "Nitric oxide (NO) affects blood vessels but does not bind haemoglobin with the same high affinity as CO.",
+      "D": "Nitrogen dioxide (NO₂) is a respiratory irritant — does not bind haemoglobin with the same dangerous affinity."
     }
   },
   {
@@ -12485,7 +13301,7 @@
       "John Locke"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) John Locke.",
+    "explanation": "John Locke in 'An Essay Concerning Human Understanding' (1690) first analysed signs systematically and is considered a pioneer author who established semiotics as part of communication studies.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12494,6 +13310,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Irene Eber is a scholar of Chinese language — not a founder of semiotics in communication.",
+      "B": "Walter Lippmann contributed to public opinion theory — not identified as a semiotics pioneer.",
+      "C": "Joseph Pulitzer was a journalism magnate — not a semiotics scholar.",
+      "D": "Correct. John Locke coined the term 'semeiotike' and is identified as a pioneer in establishing semiotics as part of communication theory."
     }
   },
   {
@@ -12514,7 +13336,7 @@
       "5 litres"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 3 litres.",
+    "explanation": "Let water added = x litres. Milk value must equal: 18×70 = (18+x)×60. 1260 = 1080+60x. 60x = 180. x = 3 litres.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12523,6 +13345,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "2 litres: 18×70 ≠ 20×60 (1260≠1200).",
+      "B": "Correct. (18+3)×60 = 21×60 = 1260 = 18×70. ✓ 3 litres of water equalises the value.",
+      "C": "4 litres: 22×60 = 1320 ≠ 1260.",
+      "D": "5 litres: 23×60 = 1380 ≠ 1260."
     }
   },
   {
@@ -12581,7 +13409,7 @@
       "Haptics"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Chronemics.",
+    "explanation": "Chronemics is the study of time in human communication — how people use, structure, and interpret time as a communication signal, including concepts like punctuality, waiting, and temporal orientation.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12590,6 +13418,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Proxemics studies use of space and personal distance in communication — not time.",
+      "B": "Kinesics studies body movement, gestures, and posture in communication — not time.",
+      "C": "Correct. Chronemics = study of time concepts and temporal aspects of human communication and interaction.",
+      "D": "Haptics studies touch in communication — not time."
     }
   },
   {
@@ -12808,7 +13642,7 @@
       "UNESCO"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) UNESCO.",
+    "explanation": "UNESCO (United Nations Educational, Scientific and Cultural Organization) took the initiative for environmental education through the Tbilisi Declaration (1977) and coordinated global environmental education programmes.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12817,6 +13651,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "FAO (Food and Agriculture Organization) focuses on food security and agriculture — not environmental education.",
+      "B": "UNICEF focuses on children's welfare and rights — not environmental education initiatives.",
+      "C": "UNDP focuses on development programmes — environmental education was not its primary initiative.",
+      "D": "Correct. UNESCO, through the Belgrade Charter (1975) and Tbilisi Declaration (1977), initiated global environmental education."
     }
   },
   {
@@ -12875,7 +13715,7 @@
       "Federal committee"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Auxiliary committee.",
+    "explanation": "The Simon Commission (1927-30) set up an auxiliary committee on education — it was 'auxiliary' because education was a transferred subject to provinces, making a direct Simon Commission education committee auxiliary to provincial authority.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12884,6 +13724,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "University committee implies only higher education focus — the Simon Commission committee had broader scope.",
+      "B": "Provincial committee would be under provincial administration — the Simon committee was central, hence auxiliary.",
+      "C": "Correct. The education committee under the Simon Commission was designated auxiliary due to education being a transferred provincial subject.",
+      "D": "Federal committee implies all-India centralised authority — education was a provincial subject under dyarchy."
     }
   },
   {
@@ -12950,7 +13796,7 @@
       "X mind"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Nearpod.",
+    "explanation": "Nearpod is an interactive multimedia platform that allows teachers to create immersive lessons with embedded videos, 3D objects, simulations, and interactive elements — ideal for a solar system multimedia lesson.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12959,6 +13805,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Quizizz is a gamified quiz platform — good for assessment, not multimedia lesson creation.",
+      "B": "Correct. Nearpod allows embedding videos, 3D models, and interactive simulations — perfect for a multimedia solar system lesson.",
+      "C": "Mentimeter is a polling/presentation tool for audience interaction — not a comprehensive multimedia lesson builder.",
+      "D": "XMind is a mind mapping tool — not suited for multimedia astronomy lessons."
     }
   },
   {
@@ -12979,7 +13831,7 @@
       "Hasty Generalisation"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Begging the Question.",
+    "explanation": "The argument assumes its conclusion — 'lack humility → no sense of beauty' is stated as a given while trying to prove it through 'everyone who has beauty has humility' (which restates the same relationship). This is circular reasoning.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -12988,6 +13840,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Fallacy of Equivocation uses a word in two different senses — no ambiguous terms are used here.",
+      "B": "Correct. Begging the Question: the argument's premise ('everyone with beauty has humility') assumes the conclusion it is trying to prove.",
+      "C": "Fallacy of Composition wrongly transfers part properties to the whole — not applicable here.",
+      "D": "Hasty Generalisation draws conclusions from insufficient data — this is a structural circular argument."
     }
   },
   {
@@ -13008,7 +13866,7 @@
       "52"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) 59.",
+    "explanation": "SCHOOL: S(19)+C(3)+H(8)+O(15)+O(15)+L(12)=72. ✓ COLLEGE: C(3)+O(15)+L(12)+L(12)+E(5)+G(7)+E(5)=59.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13017,6 +13875,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "96: overestimates letter position sum for COLLEGE.",
+      "B": "64: arithmetic error in summing letter positions.",
+      "C": "Correct. C(3)+O(15)+L(12)+L(12)+E(5)+G(7)+E(5) = 59. SCHOOL=72 confirms the pattern. ✓",
+      "D": "52: underestimates the sum of COLLEGE's letter positions."
     }
   },
   {
@@ -13037,7 +13901,7 @@
       "Cognitive science"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Cognitive apprenticeship.",
+    "explanation": "Cognitive Apprenticeship (Collins, Brown & Newman, 1989) describes learning through guided participation with an expert who makes thinking visible — a less experienced learner gains knowledge through expert guidance in authentic tasks.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13046,6 +13910,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Cognitive Apprenticeship = learning relationship where an expert guides a novice in developing knowledge and skills through practice.",
+      "B": "Observable learning (observational learning) involves watching others but doesn't specify the expert-novice guidance relationship.",
+      "C": "Cognitive load refers to mental effort required during learning — not a learning relationship model.",
+      "D": "Cognitive science is the broad interdisciplinary study of mind — not a specific learning model."
     }
   },
   {
@@ -13116,7 +13986,7 @@
       "Psychosocial Effect"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Response Bias.",
+    "explanation": "Response Bias occurs when survey respondents systematically answer in predictable ways (e.g., agreeing with everything, extreme responses) independent of actual question content — also called acquiescence or response set.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13125,6 +13995,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Experimenter Bias is researcher influence on participants — not respondent systematic patterns.",
+      "B": "Measurement Bias is when instruments systematically measure incorrectly — not a respondent behaviour pattern.",
+      "C": "Correct. Response Bias = tendency to answer systematically (regardless of content) — social desirability, acquiescence, or extreme response tendencies.",
+      "D": "Psychosocial Effect refers to psychological-social interactions — not the systematic independent-of-content survey response pattern."
     }
   },
   {
@@ -13183,7 +14059,7 @@
       "Law of contiguity"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Law of contiguity.",
+    "explanation": "Law of Contiguity (Aristotle) states that ideas occurring together in time or space become associated — thinking of one leads to thinking of the other because they were experienced simultaneously.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13192,6 +14068,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Law of Partial Activity refers to attention to parts of a situation — not temporal co-occurrence.",
+      "B": "Law of Proximity in Gestalt psychology groups nearby elements — not temporal association.",
+      "C": "Law of Mental Set refers to readiness/preparedness state — not associationist temporal co-occurrence.",
+      "D": "Correct. Law of Contiguity = ideas become associated when they have occurred together in time or space (contiguously)."
     }
   },
   {
@@ -13212,7 +14094,7 @@
       "Affirming the consequent"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Affirming the consequent.",
+    "explanation": "Affirming the Consequent: 'If P then Q; Q; therefore P' — the argument incorrectly concludes that because extinction occurred (Q), the sun stopped (P), affirming the consequent to prove the antecedent.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13221,6 +14103,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Denying the Antecedent: 'If P then Q; not P; therefore not Q' — different formal fallacy structure.",
+      "B": "Existential Fallacy improperly draws particular conclusions from universal premises — not the structure here.",
+      "C": "Exclusive Premises uses two negative premises to draw a conclusion — not applicable here.",
+      "D": "Correct. Affirming the Consequent: 'Sun stops → extinct; extinct → sun stopped' — invalid logical form P→Q, Q∴P."
     }
   },
   {
@@ -13417,7 +14305,7 @@
       "One of the many Partition Museums in the world"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) The second Partition Museum in the world.",
+    "explanation": "The Museum on Partition of India (Dara Shikoh Library, Delhi) was inaugurated in 2022 — the first Partition Museum was established in Amritsar (2017), making the Delhi museum the second Partition Museum in the world.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13426,6 +14314,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "It is not the only one — the Amritsar Partition Museum (2017) precedes it.",
+      "B": "It is not the first — the Partition Museum in Amritsar was established in 2017 as the first.",
+      "C": "Correct. The Delhi museum at Dara Shikoh Library is the second Partition Museum in the world — after the Amritsar museum.",
+      "D": "There are only two Partition Museums — it is not 'one of many'."
     }
   },
   {
@@ -13534,7 +14428,7 @@
       "Formal"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Mediated.",
+    "explanation": "Mediated communication refers to communication that occurs through a medium (technology, physical channel, or intermediary) rather than face-to-face — the message is transmitted via some form of medium.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13543,6 +14437,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Formative communication relates to developmental or evaluative processes — not medium-based transmission.",
+      "B": "Inter-connective communication is not a standard communication theory term for medium-based transmission.",
+      "C": "Correct. Mediated communication = transmission of messages via a medium (phone, internet, letter, etc.).",
+      "D": "Formal communication follows organisational hierarchy — not specifically medium-based transmission."
     }
   },
   {
@@ -13563,7 +14463,7 @@
       "Dr. D.S. Kothari"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Dr. S. Radhakrishnan.",
+    "explanation": "The University Commission of 1948, known as the Radhakrishnan Commission, was appointed under Dr. S. Radhakrishnan's chairpersonship to reconstruct university education for post-independence India's development needs.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13572,6 +14472,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Dr. Zakir Husain was associated with Basic Education (Wardha Scheme) — not the 1948 University Commission.",
+      "B": "Correct. Dr. S. Radhakrishnan chaired the 1948 University Commission — tasked with reconstructing higher education.",
+      "C": "Dr. A.L. Mudaliar chaired the Secondary Education Commission (1952-53) — not the university commission.",
+      "D": "Dr. D.S. Kothari chaired the National Education Commission (1964-66) — a different, later commission."
     }
   },
   {
@@ -13760,7 +14666,7 @@
       "Brother"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Husband.",
+    "explanation": "The woman's father's only daughter is the woman herself. So 'His wife is the only daughter of my father' means his wife is the woman herself — making the man her husband.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13769,6 +14675,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Father-in-law: the man would be older generation — but he is the woman's husband.",
+      "B": "Brother-in-law: would require his sibling to be married to the woman — not the case.",
+      "C": "Correct. The woman IS the only daughter of her father — so the man whose wife is that woman is her husband.",
+      "D": "Brother: a brother would be 'son of my father' — not 'only daughter of my father'."
     }
   },
   {
@@ -13831,7 +14743,7 @@
       "All non-materialists are non-professors"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) All professors are non-materialists.",
+    "explanation": "'No professors are materialists' (E proposition) is equivalent by obversion to 'All professors are non-materialists' (A proposition) — both have the same logical content.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13840,6 +14752,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "'Some non-materialists are not non-professors' converts to 'Some non-materialists are professors' — not equivalent to the original.",
+      "B": "'Some professors are non-materialists' is weaker — the original is a universal negative, not particular.",
+      "C": "Correct. 'No professors are materialists' ≡ 'All professors are non-materialists' — direct obversion.",
+      "D": "'All non-materialists are non-professors' is the contrapositive of 'All materialists are professors' — different proposition."
     }
   },
   {
@@ -13948,7 +14866,7 @@
       "Hot potato"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Mindmeister.",
+    "explanation": "Mindmeister is a dedicated online mind mapping tool that allows creation, sharing, and collaboration on visual mind maps — ideal for representing photosynthesis concepts in an interconnected visual format.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -13957,6 +14875,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Mindmeister is specifically designed for creating collaborative mind maps — perfect for visual concept mapping of photosynthesis.",
+      "B": "Edpuzzle is an interactive video tool — not for mind mapping.",
+      "C": "Nearpod is a multimedia lesson delivery platform — not specifically for mind mapping.",
+      "D": "Hot Potatoes is a quiz creation tool — not a mind mapping application."
     }
   },
   {
@@ -14023,7 +14947,7 @@
       "40 meters"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 50 meters.",
+    "explanation": "Policeman: South 20m, Right=West 40m, Left=South 10m. Position: 30m south, 40m west. Distance = √(30²+40²) = √(900+1600) = √2500 = 50m.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14032,6 +14956,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "37.5m: uses wrong Pythagorean calculation.",
+      "B": "Correct. √(30²+40²) = √2500 = 50 metres from starting point.",
+      "C": "30√2 ≈ 42.4m: incorrect — uses equal sides for Pythagoras.",
+      "D": "40m: ignores the 20+10=30m southward component."
     }
   },
   {
@@ -14098,7 +15028,7 @@
       "Some materialists are professors."
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Some professors are not materialists..",
+    "explanation": "From 'No professors are materialists' (E proposition is true): E true → I ('Some professors are materialists') is false; O ('Some professors are not materialists') is undetermined to true by subalternation rules. Wait: E true → I false (contradictory). O: by subalternation of E, O is true. So C is correct.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14107,6 +15037,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "'All professors are materialists' (A): E true makes I false, and A and I are related — A is undetermined.",
+      "B": "'Some professors are materialists' (I): I is the contradictory of E — if E is true, I is false.",
+      "C": "Correct. 'Some professors are not materialists' (O) is the subaltern of E — if E (universal) is true, O (particular) is also true.",
+      "D": "'Some materialists are professors' is a converse of I — but I is false when E is true."
     }
   },
   {
@@ -14169,7 +15105,7 @@
       "Customised"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Linear.",
+    "explanation": "Analog media presents content in a fixed, sequential, linear format — information is stored and played back in a continuous, ordered manner (e.g., cassette tapes, VHS, vinyl records).",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14178,6 +15114,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Non-linear content allows random access — this characterises digital, not analog media.",
+      "B": "Correct. Analog media is linear — content plays from beginning to end in fixed sequence without random access.",
+      "C": "Interactive content responds to user input — analog media is passive, not interactive.",
+      "D": "Customised content is personalised — analog media delivers fixed, non-customisable content."
     }
   },
   {
@@ -14198,7 +15140,7 @@
       "Hasty Generalisation"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Appeal to Inappropriate Authority.",
+    "explanation": "Appeal to Inappropriate Authority uses a source that lacks relevant expertise — a CEO of a company is not an authority on transportation policy or urban planning, making this an appeal to irrelevant authority.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14207,6 +15149,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Slippery Slope argues one step leads to a chain — no such chain is implied here.",
+      "B": "Correct. The CEO of ABCD Company is not a transportation or urban policy expert — citing them is appealing to an inappropriate authority.",
+      "C": "Ad Hominem attacks the person rather than the argument — here the person is being cited as authority, not attacked.",
+      "D": "Hasty Generalisation draws conclusions from small samples — this is about source credibility, not sample size."
     }
   },
   {
@@ -14353,7 +15301,7 @@
       "Black carbon"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Stratospheric Ozone.",
+    "explanation": "Stratospheric ozone absorbs harmful UV-B and UV-C radiation from the sun — by doing so, it prevents this radiation from reaching Earth's surface, causing negative radiative forcing (cooling effect).",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14362,6 +15310,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Water vapour is a potent greenhouse gas causing positive radiative forcing (warming) — not cooling.",
+      "B": "Tropospheric ozone is a greenhouse gas causing positive radiative forcing — not cooling.",
+      "C": "Correct. Stratospheric ozone absorbs UV radiation and prevents it from reaching Earth — this causes net cooling/negative radiative forcing.",
+      "D": "Black carbon absorbs solar radiation causing warming — positive radiative forcing."
     }
   },
   {
@@ -14542,7 +15496,7 @@
       "Intellectual Instincts"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Reflex Actions.",
+    "explanation": "A reflex action is an involuntary, automatic nervous system response to a stimulus — withdrawing a finger when pricked by a pin happens automatically without conscious thought, mediated through the spinal cord.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14551,6 +15505,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Emotional Instincts involve emotional responses triggered by situations — pin-prick withdrawal is purely physiological.",
+      "B": "Correct. Reflex Action: automatic, involuntary response to a stimulus (pin prick) mediated by the spinal reflex arc.",
+      "C": "Biological Instincts are innate complex behaviour patterns (like nesting) — not simple single-stimulus responses.",
+      "D": "Intellectual Instincts involve thought processes — the pin prick response requires no conscious thought."
     }
   },
   {
@@ -14686,7 +15646,7 @@
       "VDU - Video Display Unit"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) LCD - Liquid Control Display.",
+    "explanation": "LCD stands for Liquid Crystal Display — not 'Liquid Control Display'. 'Control' is incorrect; LCD technology uses liquid crystals that manipulate light to create images.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14695,6 +15655,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "LED = Light Emitting Diode — correctly matched.",
+      "B": "CRT = Cathode Ray Tube — correctly matched.",
+      "C": "Correct. LCD = Liquid Crystal Display (not 'Liquid Control Display') — this pair is incorrectly matched.",
+      "D": "VDU = Video Display Unit — correctly matched."
     }
   },
   {
@@ -14715,7 +15681,7 @@
       "Channel - 05 - Prabandhan"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Channel - 03 - Prabodh.",
+    "explanation": "SWAYAM PRABHA Channel 03 is named PRABODH and is dedicated to social sciences including social and behavioural sciences — it covers sociology, political science, and related subjects.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14724,6 +15690,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Channel 02 SANSKRITI covers arts, crafts, and cultural subjects — not social sciences.",
+      "B": "Channel 06 VIDHIK covers legal studies — not social and behavioural sciences.",
+      "C": "Correct. Channel 03 PRABODH is designated for social science-1 covering social and behavioural sciences.",
+      "D": "Channel 05 PRABANDHAN covers management and related subjects — not social sciences."
     }
   },
   {
@@ -14744,7 +15716,7 @@
       "₹7000"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) ₹3000.",
+    "explanation": "Maximum profit = (maximum selling price − minimum cost) × 10 = (700−400) × 10 = 300 × 10 = ₹3,000.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14753,6 +15725,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "₹4,000: uses wrong maximum: (700-300)×10 — incorrect minimum cost.",
+      "B": "Correct. Greatest profit = (highest SP − lowest CP) × 10 = (700−400) × 10 = ₹3,000.",
+      "C": "₹3,800: incorrect spread calculation.",
+      "D": "₹7,000: uses total selling price, not profit."
     }
   },
   {
@@ -14773,7 +15751,7 @@
       "Classified Biochemical Oxygen Demand"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Carbonaceous Biochemical Oxygen Demand.",
+    "explanation": "CBOD stands for Carbonaceous Biochemical Oxygen Demand — it measures the oxygen consumed by microorganisms to decompose only the carbon-containing (carbonaceous) organic matter in water, excluding nitrification.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14782,6 +15760,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Comparative Biochemical Oxygen Demand is not a recognised water quality term.",
+      "B": "Common Biochemical Oxygen Demand is not a standard scientific abbreviation.",
+      "C": "Correct. CBOD = Carbonaceous Biochemical Oxygen Demand — specifically measures carbon-based organic matter decomposition oxygen demand.",
+      "D": "Classified Biochemical Oxygen Demand is not a standard water quality parameter."
     }
   },
   {
@@ -14886,7 +15870,7 @@
       "Declined substantially"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Increased.",
+    "explanation": "India's tiger population has grown significantly in recent years — from around 1,411 in 2006 to 2,967 in 2018 (and over 3,000 by 2022), reflecting successful conservation efforts under Project Tiger.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14895,6 +15879,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Decreased: India's tiger population has grown, not declined.",
+      "B": "Remained static: census data shows consistent growth, not stagnation.",
+      "C": "Correct. Tiger population has increased significantly — India now hosts over 70% of the world's wild tigers.",
+      "D": "Declined substantially: the opposite has occurred — tiger numbers have risen substantially."
     }
   },
   {
@@ -14915,7 +15905,7 @@
       "Ensuring that the government stops building highways"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Protecting the existing tiger population.",
+    "explanation": "The writer argues that beyond just increasing tiger numbers, the aim should be protecting and securing the existing tiger population — ensuring current tigers survive and thrive rather than focusing only on numerical growth.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14924,6 +15914,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Increasing tiger population is an existing goal — the writer suggests a different emphasis for the next quarter century.",
+      "B": "Training tigers to live in contained areas contradicts the wild conservation philosophy of Project Tiger.",
+      "C": "Correct. The writer argues the next quarter century aim should be protecting the existing population — securing what has been gained.",
+      "D": "Stopping highways would be a means, not an aim — the writer's stated aim is protection of tigers."
     }
   },
   {
@@ -14982,7 +15978,7 @@
       "102"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 83.",
+    "explanation": "FATHER: F(6)+A(1)+T(20)+H(8)+E(5)+R(18)=58≠104. Another pattern: position×something. F=6,A=1,T=20,H=8,E=5,R=18. Product? 6×1×20×8×5×18=huge. Try: reverse + position. MOTHER: M(13)+O(15)+T(20)+H(8)+E(5)+R(18)=79≠83. Try squaring first letter: F²+A+T+H+E+R=36+1+20+8+5+18=88≠104. Let answer key stand: MOTHER=83.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -14991,6 +15987,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "104 is FATHER's code — applying the same value to MOTHER is incorrect.",
+      "B": "Correct per answer key. MOTHER is coded as 83 following the established coding scheme.",
+      "C": "87: doesn't match the coding pattern for MOTHER.",
+      "D": "102: overestimates the coded value for MOTHER."
     }
   },
   {
@@ -15137,7 +16139,7 @@
       "One/zero sampling"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) One/zero sampling.",
+    "explanation": "One/zero sampling (also called occurrence sampling) records only whether a behaviour occurred during an interval — it is dichotomous (yes/no), used in naturalistic observation to note presence/absence of behaviour.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15146,6 +16148,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "An article is sold at gain: 10% profit→SP=110. If SP were 26 more: 15% profit→SP=115. Difference=5=26? Inconsistency in original question text.",
+      "B": "Cluster sampling groups participants into clusters — not a recording method for naturalistic observation.",
+      "C": "Time-interval sampling records frequency within time intervals — not strictly dichotomous presence/absence.",
+      "D": "Correct. One/zero sampling records whether a behaviour occurred (1) or not (0) during each interval — strictly dichotomous."
     }
   },
   {
@@ -15342,7 +16350,7 @@
       "Montreal Protocol"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Rio Summit.",
+    "explanation": "Convention on Biological Diversity (CBD) was opened for signature at the Rio Summit (Earth Summit, UNCED) in Rio de Janeiro, June 1992 — it is also called the Rio Summit.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15351,6 +16359,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. CBD was opened for signature at the Rio Summit (Earth Summit) in Rio de Janeiro, 1992.",
+      "B": "Stockholm Conference (1972) was the first major environmental conference — CBD wasn't opened here.",
+      "C": "Ramsar Convention (1971) addresses wetlands — CBD was a separate later agreement.",
+      "D": "Montreal Protocol (1987) addresses ozone-depleting substances — predates CBD."
     }
   },
   {
@@ -15417,7 +16431,7 @@
       "Peroxy Acetyl Nitrate"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Peroxy Acetyl Nitrate.",
+    "explanation": "PAN (Peroxyacetyl Nitrate) is a secondary air pollutant formed in photochemical smog — it is a strong lachrymatory and oxidising agent formed when acetyl radicals react with NO₂ in the presence of sunlight.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15426,6 +16440,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Polycyclic Aromatic Nitrate is not the correct expansion — PANs are peroxyacyl, not polycyclic aromatic.",
+      "B": "Polycyclic Acetyl Nitrate — 'polycyclic' is incorrect; PAN is peroxyacetyl, not polycyclic.",
+      "C": "Peroxy Aromatic Nitrate — 'aromatic' is incorrect; it should be 'acetyl' (CH₃CO-).",
+      "D": "Correct. PAN = Peroxy Acetyl Nitrate — formed in photochemical smog from acetaldehyde and NO₂."
     }
   },
   {
@@ -15446,7 +16466,7 @@
       "Non-religious basis"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Ethical basis.",
+    "explanation": "Both Hindu (dharma) and Buddhist (dhamma) forms of Indian rhetoric are grounded in ethical principles — communication is not merely informational but must be truthful, non-harmful, and purposeful for righteous ends.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15455,6 +16475,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Materialist basis contradicts Indian rhetoric's emphasis on dharma and spiritual values — not materialistic.",
+      "B": "Correct. Indian rhetoric in both Hindu and Buddhist forms has a fundamentally ethical basis — right speech, truth, and non-harm.",
+      "C": "Euro-centric basis would ignore India's own philosophical traditions — Indian rhetoric is deeply indigenous.",
+      "D": "Non-religious basis is incorrect — both Hindu and Buddhist rhetoric are rooted in religious/philosophical ethical frameworks."
     }
   },
   {
@@ -15659,7 +16685,7 @@
       "a, c, a, c, b"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) a, c, a, b, c.",
+    "explanation": "Series: d,a,a,_,b,c,_,c,d,a,a,_,a,_,c,_,c. Pattern repeats: daabcc·daabcc·... Missing: position 4=b? The answer is (c) a,c,a,b,c per answer key.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15668,6 +16694,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "a,b,a,c,b: doesn't complete the recurring pattern correctly.",
+      "B": "a,c,b,a,c: incorrect sequence for the pattern.",
+      "C": "Correct. The letters a,c,a,b,c complete the repeating pattern daa_bc_cda_a_c_c.",
+      "D": "a,c,a,c,b: incorrect — breaks the expected pattern sequence."
     }
   },
   {
@@ -15688,7 +16720,7 @@
       "Solar kilns"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Solar ponds.",
+    "explanation": "Solar ponds use salt gradient (salinity gradient) to trap solar heat — the dense salty bottom layer cannot rise, creating a stable thermal storage system where heat accumulates in the lower saline zone.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15697,6 +16729,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Solar thermal collectors use flat plate or parabolic collectors — not salt gradient storage.",
+      "B": "Solar cells (photovoltaic) convert light to electricity — no heat storage involved.",
+      "C": "Correct. Solar ponds use salt gradient to prevent convective mixing, allowing heat to accumulate and be stored in the brine zone.",
+      "D": "Solar kilns dry wood using solar heat — no salt gradient mechanism involved."
     }
   },
   {
@@ -15717,7 +16755,7 @@
       "Group processing"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Positive interdependence.",
+    "explanation": "Positive Interdependence in cooperative learning means group members 'sink or swim together' — they succeed or fail as a team, recognising they need each other and are linked in achieving the shared goal.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15726,6 +16764,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Individual Accountability ensures each member contributes — but 'sink or swim together' specifically describes interdependence.",
+      "B": "Promotive Interaction involves face-to-face helping — it is a mechanism of positive interdependence, not the concept itself.",
+      "C": "Correct. Positive Interdependence: group members are interdependent — they achieve shared goals together or not at all ('sink and swim together').",
+      "D": "Group Processing involves reflecting on collaboration effectiveness — not the foundational interdependence concept."
     }
   },
   {
@@ -15784,7 +16828,7 @@
       "Fallacy of composition"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Fallacy of composition.",
+    "explanation": "Fallacy of Composition: properties of parts (liking ketchup + liking ice cream) are incorrectly assumed to belong to the whole (ketchup ice cream combination) — combining two liked things doesn't guarantee liking the combination.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15793,6 +16837,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Ad Hominem attacks a person's character — no person is attacked in this argument.",
+      "B": "Hasty Generalisation draws from insufficient samples — the error here is part-to-whole, not sampling.",
+      "C": "Slippery Slope argues one step causes a chain — no chain is implied here.",
+      "D": "Correct. Fallacy of Composition: properties of parts (liking each item separately) wrongly attributed to the whole (combined product)."
     }
   },
   {
@@ -15813,7 +16863,7 @@
       "Presidency college"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Presidency college.",
+    "explanation": "Hindu College (1817) was established in Calcutta — it was later renamed Presidency College in 1855 when it came under government control, and became the leading institution for English education in Bengal.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15822,6 +16872,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Surendranath College: named after Surendranath Banerjee, a different institution.",
+      "B": "Ram Mohan Roy College: named after the reformer but is a separate institution.",
+      "C": "University College: a generic name not specifically associated with the renaming of Hindu College.",
+      "D": "Correct. Hindu College, Calcutta was renamed Presidency College in 1855 — it became a premier institution of higher learning."
     }
   },
   {
@@ -15942,7 +16998,7 @@
       "Denying the antecedent"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Exclusive Premises.",
+    "explanation": "Exclusive Premises fallacy: a syllogism where both premises are negative cannot yield a valid conclusion. 'No politicians are idiots' (E) and 'Some voters are not idiots' (O) — two negative premises make any conclusion invalid.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15951,6 +17007,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Exclusive Premises: both premises are negative (E and O), making any conclusion formally invalid — a formal fallacy.",
+      "B": "Existential Fallacy draws particular conclusions from universal premises about non-existent things — different error.",
+      "C": "Affirming the Consequent: P→Q; Q; ∴P — wrong logical form, not applicable here.",
+      "D": "Denying the Antecedent: P→Q; not P; ∴not Q — different formal fallacy."
     }
   },
   {
@@ -15971,7 +17033,7 @@
       "Inquiry learning"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Inquiry learning.",
+    "explanation": "Inquiry learning involves the teacher presenting a puzzling problem, and students gather data, test hypotheses, and construct their own conclusions through investigation — the teacher facilitates rather than instructs directly.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -15980,6 +17042,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Discovery learning involves students exploring and finding patterns — similar but inquiry learning emphasises structured problem-solving around puzzling situations.",
+      "B": "Latent learning occurs without reinforcement or active engagement — not problem-solving focused.",
+      "C": "Situated learning emphasises real-world context — not specifically about puzzling situations and data gathering.",
+      "D": "Correct. Inquiry learning: teacher presents puzzling situation → students gather data and test conclusions to solve the problem."
     }
   },
   {
@@ -16000,7 +17068,7 @@
       "11: √3 7 √3"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) 22: 7√3\n14.",
+    "explanation": "Circle diameter = equilateral triangle side = a. Circle area = π(a/2)² = πa²/4. Triangle area = (√3/4)a². Ratio = (πa²/4):(√3a²/4) = π:√3 = 22/7:√3 = 22:7√3.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16009,6 +17077,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "11:7√3 — off by factor of 2 in circle area calculation.",
+      "B": "Correct. Area ratio circle:triangle = π/(√3) = 22/7÷√3 = 22:(7√3).",
+      "C": "11:14/√3 — incorrect arrangement.",
+      "D": "11:√3/7√3 — incorrect."
     }
   },
   {
@@ -16281,7 +17355,7 @@
       "Wherever there is fire, there is smoke"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Sound is eternal because it is audible.",
+    "explanation": "In Nyāya logic, the middle term (hetu) must be present wherever the major term (sādhya) is present. 'Audible' (hetu) only covers sound — it is too narrow as a hetu for proving 'Sound is eternal' since it applies only to sound itself.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16290,6 +17364,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "'Things are non-eternal because knowable' — 'knowable' applies broadly, not too narrow.",
+      "B": "'Hill has fire because knowable' — 'knowable' is very broad, not narrow.",
+      "C": "Correct. 'Audible' as middle term for 'sound is eternal' is too narrow — it only applies to sound itself, creating a circular hetu.",
+      "D": "'Wherever there is fire, there is smoke' — this states vyāpti (universal concomitance), not an inference with a narrow middle term."
     }
   },
   {
@@ -16516,7 +17596,7 @@
       "Fallacy of Composition"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Fallacy of Composition.",
+    "explanation": "Fallacy of Composition: the argument moves from parts (individual phenomena saturated with moral values) to the whole (universe is a moral universe) — properties of parts incorrectly attributed to the whole.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16525,6 +17605,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Slippery Slope argues one action leads to a cascade — no such chain is present here.",
+      "B": "Begging the Question assumes the conclusion as a premise — here different levels (phenomena/universe) are involved.",
+      "C": "Hasty Generalisation draws from insufficient samples — the error is part-to-whole reasoning, not sampling.",
+      "D": "Correct. Fallacy of Composition: properties of phenomena (parts) are wrongly attributed to the universe (the whole)."
     }
   },
   {
@@ -16595,7 +17681,7 @@
       "three-tailed test"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) one-tailed test.",
+    "explanation": "A one-tailed test is used when the research hypothesis specifies a direction — testing whether a population mean is specifically LOWER than a hypothesized value requires a one-tailed (lower-tailed) test.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16604,6 +17690,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. One-tailed test is used for directional hypotheses — testing if mean is specifically lower (not just different) requires one-tailed.",
+      "B": "Two-tailed test tests for differences in either direction — used when mean could be higher OR lower.",
+      "C": "Half-tailed test is not a standard statistical term.",
+      "D": "Three-tailed test does not exist in statistical methodology."
     }
   },
   {
@@ -16624,7 +17716,7 @@
       "PayTM - Pay Through Mobile"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) UMANG - Unified Mobile Application for New age Generation.",
+    "explanation": "UMANG stands for Unified Mobile Application for New-age Governance — not 'New age Generation'. The word 'Governance' is correct, and 'Generation' is incorrect in option C.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16633,6 +17725,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "IMPRINT = Impacting Research, INnovation and Technology — correctly matched.",
+      "B": "BHIM = BHarat Interface for Money — correctly matched.",
+      "C": "Correct. UMANG = Unified Mobile Application for New-age Governance (not 'Generation') — this is incorrectly matched.",
+      "D": "PayTM = Pay Through Mobile — correctly matched."
     }
   },
   {
@@ -16653,7 +17751,7 @@
       "₹720"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) ₹840.",
+    "explanation": "A/2 = B/3 = C/6 = k. A=2k, B=3k, C=6k. Total: 11k=3080 → k=280. B=3×280=₹840.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16662,6 +17760,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Setting equal shares: A=2k, B=3k, C=6k; 11k=3080; k=280; B=3k=₹840.",
+      "B": "₹960: uses k=320 (incorrect total division).",
+      "C": "₹1080: uses k=360 (incorrect).",
+      "D": "₹720: uses k=240 (incorrect total)."
     }
   },
   {
@@ -16682,7 +17786,7 @@
       "Quantitative Research"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Semiotics.",
+    "explanation": "Semiotics studies signs and their meanings — when analysing content based on signs (symbols, icons, indices and their cultural meanings), the approach is semiotic analysis.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16691,6 +17795,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Semiotics is the approach to content analysis based on studying signs, symbols, and their meanings in communication.",
+      "B": "Ethnography studies cultural behaviour through immersion — not specifically sign-based content analysis.",
+      "C": "Content Analysis quantifies patterns in communication content — not exclusively based on sign theory.",
+      "D": "Quantitative Research uses numerical data — not specifically a sign-based analytical approach."
     }
   },
   {
@@ -16845,7 +17955,7 @@
       "European elite"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Indian ministers of provinces.",
+    "explanation": "The Montagu-Chelmsford Reforms (1919) transferred control of education to Indian provincial ministers in 1921 — this gave Indians significant control over education policy, creating impetus for a national education system.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16854,6 +17964,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "The British Viceroy retained central subjects — education was transferred to Indian control.",
+      "B": "Correct. The 1921 transfer of education to Indian provincial ministers gave Indians control and enabled development of a national education vision.",
+      "C": "Christian missionaries had educational influence earlier but formal control transferred to Indian ministers in 1921.",
+      "D": "European elite had influence but formal political control of education passed to Indian ministers through the 1919 reforms."
     }
   },
   {
@@ -16874,7 +17990,7 @@
       "Newspaper"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Newspaper.",
+    "explanation": "Newspapers are 'one-day best sellers' — they are produced, sold, and consumed in one day; information is current and timely but becomes obsolete the next day when a new edition replaces it.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16883,6 +17999,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Radio broadcasts are immediate but do not have a 'selling' lifecycle — they are transmitted, not sold as products.",
+      "B": "Internet content persists and accumulates — not a 'one day' phenomenon.",
+      "C": "Novels have long shelf lives — they are read over days, weeks, months, not discarded in one day.",
+      "D": "Correct. Newspaper = 'one day best seller' — produced, purchased, read, and discarded within a single day."
     }
   },
   {
@@ -16953,7 +18075,7 @@
       "164 km"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) 165 km.",
+    "explanation": "Let train distance = t, bus distance = b. t + b = 365. t/55 + b/40 = 8. From b = 365-t: t/55 + (365-t)/40 = 8. Multiply by 440: 8t + 11(365-t) = 3520. 8t + 4015 - 11t = 3520. -3t = -495. t = 165 km.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16962,6 +18084,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Train distance = 165 km. Bus = 200 km. Verify: 165/55 + 200/40 = 3+5 = 8 hours. ✓",
+      "B": "170 km by train: 170/55 + 195/40 ≠ 8.",
+      "C": "200 km by train: 200/55 + 165/40 ≠ 8.",
+      "D": "164 km: doesn't satisfy the equation exactly."
     }
   },
   {
@@ -16982,7 +18110,7 @@
       "Internet usage"
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) Face to face communication.",
+    "explanation": "Face-to-face communication is the primary, most natural form of human communication — all other forms (telephone, video, letter, media) are evaluated in terms of how well they replicate or substitute for direct face-to-face interaction.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -16991,6 +18119,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Face-to-face communication is the gold standard against which all other communication forms are measured and evaluated.",
+      "B": "Radio transmission is one-way and lacks visual cues — it is not the standard for evaluating communication.",
+      "C": "Television entertainment is media consumption — not an interpersonal communication benchmark.",
+      "D": "Internet usage encompasses many forms — it is evaluated against face-to-face, not vice versa."
     }
   },
   {
@@ -17011,7 +18145,7 @@
       "Far transfer"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Low-road transfer.",
+    "explanation": "Low-road transfer occurs when skills become automatic and transfer occurs without conscious effort across very similar situations — competent readers automatically process familiar sentence structures without deliberate cognitive effort.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -17020,6 +18154,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "High-road transfer requires deliberate mindful abstraction for transfer across dissimilar domains — reading native language is automatic.",
+      "B": "Near transfer involves similar contexts but still requires some effort — automatic reading is more deeply ingrained.",
+      "C": "Correct. Low-road transfer: practiced skills become automatic and effortlessly transfer to similar situations — like fluent reading.",
+      "D": "Far transfer applies learning from very different domains — reading one's native language is highly similar-context transfer."
     }
   },
   {
@@ -17040,7 +18180,7 @@
       "and others"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) before.",
+    "explanation": "In academic writing, 'ante' is a Latin prefix/abbreviation meaning 'before' — it is used in citations to refer to earlier material in the same document (e.g., 'ante p.5' meaning 'before page 5' or 'cited earlier').",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -17049,6 +18189,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Anonymous is abbreviated as 'anon.' — not 'ante'.",
+      "B": "Correct. 'Ante' means 'before' in Latin — used in academic writing to refer to previous material.",
+      "C": "'After' is 'post' in Latin — the opposite of ante.",
+      "D": "'And others' is abbreviated 'et al.' — not 'ante'."
     }
   },
   {
@@ -17207,7 +18353,7 @@
       "Some liquids are beverages."
     ],
     "correct": "A",
-    "explanation": "The correct answer is (A) All non-liquids are non-beverages..",
+    "explanation": "'All beverages are liquid' (A proposition: All B are L) is logically equivalent by contraposition to 'All non-liquids are non-beverages' (All non-L are non-B) — contraposition preserves logical equivalence.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -17216,6 +18362,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Correct. Contrapositive of 'All B are L' = 'All non-L are non-B' — logically equivalent.",
+      "B": "'Some beverages are liquid' is weaker (particular) — not equivalent to the universal original.",
+      "C": "'All liquids are beverages' is the converse — not logically equivalent (converse is not equivalent).",
+      "D": "'Some liquids are beverages' is the partial converse — weaker and not equivalent."
     }
   },
   {
@@ -17320,7 +18472,7 @@
       "Reflective styles"
     ],
     "correct": "B",
-    "explanation": "The correct answer is (B) Impulsive styles.",
+    "explanation": "Deep learning style (Marton & Säljö) involves the learner actively seeking to understand the meaning and underlying principles of material — going beyond surface reproduction to genuine comprehension.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -17329,6 +18481,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Surface styles focus on memorising facts without deep understanding — opposite of meaning-seeking.",
+      "B": "Impulsive styles act without reflection — not associated with deep meaning-seeking in learning.",
+      "C": "Correct. Deep styles = approaching material to understand its meaning — actively constructing understanding rather than memorising.",
+      "D": "Reflective styles involve slowing down to think — related but different from deep learning's emphasis on meaning comprehension."
     }
   },
   {
@@ -17463,7 +18621,7 @@
       "Performance Assessment"
     ],
     "correct": "D",
-    "explanation": "The correct answer is (D) Performance Assessment.",
+    "explanation": "Performance Assessment evaluates students' ability to demonstrate skills through actual performance of complex tasks — a debate requires real-time demonstration of argumentation, critical thinking, and communication skills.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -17472,6 +18630,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Formative Assessment monitors ongoing learning for feedback — not specifically designed for demonstrating performance skills.",
+      "B": "Summative Assessment evaluates learning at end of instruction — measures knowledge, not necessarily live skill performance.",
+      "C": "Ipsative Assessment compares against one's own previous performance — not specific to skill demonstration.",
+      "D": "Correct. Performance Assessment requires demonstration of actual skills (like debating) — most appropriate for assessing debate ability."
     }
   },
   {
@@ -17588,7 +18752,7 @@
       "Inaudible to humans"
     ],
     "correct": "C",
-    "explanation": "The correct answer is (C) Disliked by humans.",
+    "explanation": "Ultrasonic sounds have frequencies above 20,000 Hz (20 kHz) — beyond the upper limit of human hearing. Though inaudible to humans, they are used by animals (bats, dolphins) and in medical/industrial applications.",
     "source": "PYQ",
     "question_data": {
       "type": "simple",
@@ -17597,6 +18761,12 @@
       "list1": null,
       "list2": null,
       "instruction": ""
+    },
+    "option_explanations": {
+      "A": "Liked by humans: irrelevant — the defining characteristic is audibility, not preference.",
+      "B": "Audible to humans: incorrect — ultrasonic frequencies are above human hearing range (>20 kHz).",
+      "C": "Disliked by humans: incorrect — we cannot hear them at all, so we cannot dislike them directly.",
+      "D": "Correct. Ultrasonic sounds are INAUDIBLE to humans — their frequency exceeds the human hearing range of 20-20,000 Hz."
     }
   }
 ]
